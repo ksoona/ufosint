@@ -12,7 +12,7 @@ _This is the history of hackers looking for evidence of UFOs._ &#x20;
   from Phrack Magazine Issue 42, File 13. (The E-zine prints IP addresses of US secret networks.) Use _CTRL+F_ to find _'Text File'_ for the relevant part.\
   Here's [some commentary](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)).  \
   [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--Quentin is interviewed with other hackers.  \
-  [**1994** Columns in UFO Magazine by T. Scott Crain](1994-ufo-magazine.md), who wrote to NBC.\
+  [**1994** Columns in UFO Magazine by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.\
   **2019** [article about the segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), which includes the quote: &#x20;
 
 > _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (Dateline NBC producer)

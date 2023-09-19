@@ -1,7 +1,7 @@
 # Table of contents
 
 * [💻 Hackers & UFOs](README.md)
-* [📰 1994 UFO Magazine](1994-ufo-magazine.md)
+* [📰 1994 UFO Magazines](1994-ufo-magazines.md)
 
 ## 👨💼 Gary McKinnon
 

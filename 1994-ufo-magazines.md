@@ -1,8 +1,8 @@
 ---
-description: '"Media Watch" columns from the 1990s on UFO hacker "Quentin"'
+description: '"Media Watch" columns on UFO hacker "Quentin"'
 ---
 
-# 📰 1994 UFO Magazine
+# 📰 1994 UFO Magazines
 
 The following two articles were written by T. Scott Crain in response to an [October 27, 1992 _Dateline NBC_ television segment](https://www.youtube.com/watch?v=N0QflNaPi7A). I sourced copies of the magazines and transcribed the articles, adding relevant images.
 
