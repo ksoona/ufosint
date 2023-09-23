@@ -31,7 +31,7 @@ Quentin's true identity remains unknown.
 
 > _“Nearly started a third world war.”_ - Jim Christy, AFOSI
 
-Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160).
+Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). His first modem was a 1200/75 baud, then a 2400, and eventually a USR 14.4K.
 
 Of note is that he got into a Wright-Patterson Air Force Base system that took no password and [saw plans for an antigravity drive](https://web.archive.org/web/20010306071223/http://www.artgomperz.com/a1998/jan/wpafb.html): &#x20;
 
