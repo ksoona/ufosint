@@ -63,6 +63,7 @@ Bevan also says, &#x20;
 * Interview by Richard Medhurst: [**2020** article](https://www.richardmedhurst.com/gary-mckinnon-interview/) &#x20;
 * Gary McKinnon's amazing Reddit AMA on /r/UFOs: [**2022** Reddit thread](https://old.reddit.com/r/UFOs/comments/t0imdw/hi\_im\_gary\_mckinnon\_i\_was\_in\_the\_news\_for\_a/) &#x20;
 * **2022** interview by Tim Ventura: [YouTube video](https://www.youtube.com/watch?v=\_SOTGFj7BwI)
+* **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
 
 McKinnon spoke at the **2017 MUFON Sypmosium** via Skype, as announced on his [blog](https://smallseo.co.uk/ill-be-speaking-at-the-mufon-symposium-2017/).\
 I have uploaded the full talk with audience questions [here](https://youtu.be/HdSSHTYRhuk). Just the talk is on [Gary's YouTube](https://youtu.be/LTemN5XTdec).\
