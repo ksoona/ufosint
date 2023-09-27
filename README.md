@@ -9,23 +9,27 @@ _This is the history of hackers looking for evidence of UFOs._ &#x20;
 ### **Early Cases: "Quentin" and Mathew Bevan**
 
 * **1992** "Quentin" of [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article)  \
-  from Phrack Magazine Issue 42, File 13. (The E-zine prints IP addresses of US secret networks.) Use _CTRL+F_ to find _'Text File'_ for the relevant part.\
-  Here's [some commentary](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)).  \
-  [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--Quentin is interviewed with other hackers.  \
-  [**1994** Columns in UFO Magazine by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.\
-  **2019** [article about the segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), which includes the quote: &#x20;
+  from Phrack Magazine Issue 42, File 13. (The E-zine prints IP addresses of US secret networks.) Use _CTRL+F_ to find _'Text File'_ for the relevant part.
+* Here's [some commentary](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)). &#x20;
+* [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--Quentin is interviewed with other hackers. [Mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE)&#x20;
+* [**1994** Columns in UFO Magazine by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.
+* **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), includes the quote:&#x20;
 
 > _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (Dateline NBC producer)
 
 Quentin's true identity remains unknown.
 
-*   **1994** [Mathew 'Kuji' Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
-    Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.\
-    **1996** Bevan is arrested [and considered an accomplice of Richard 'Datastream Cowboy' Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm), but Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to share their evidence with a UK court.) &#x20;
+{% file src=".gitbook/assets/Quentin_UFO_Text_File_Sourcing.pdf" %}
+**2019** Report tracking down sources by Giuliano Marinkovic.
+{% endfile %}
 
-    Bevan's case was covered extensively in the [media](http://www.kujimedia.com/musings/), [periodicals](http://www.kujimedia.com/gallery/), and [other](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm) online [sources](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm).  \
-    **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when released.\
-    **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm)
+* **1994** [Mathew 'Kuji' Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
+  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
+*   **1996** Bevan is arrested [and considered an accomplice of Richard 'Datastream Cowboy' Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm), but Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to share their evidence with a UK court.) &#x20;
+
+    Bevan's case was covered extensively in the [media](http://www.kujimedia.com/musings/), [periodicals](http://www.kujimedia.com/gallery/), and [other](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm) online [sources](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). &#x20;
+* **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released.
+* **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm)
 
 > _“Possibly the single biggest threat to world peace since Adolf Hitler.” -_ a Pentagon source
 
