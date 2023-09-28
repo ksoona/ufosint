@@ -6,28 +6,28 @@ description: Who was "Quentin"?
 
 _This is the history of hackers looking for evidence of UFOs._ &#x20;
 
-### **Early Cases: "Quentin" and Mathew Bevan**
+### **Earliest Case: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
-* **1992** "Quentin" of [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article)  \
-  from Phrack Magazine Issue 42, File 13. (The E-zine prints IP addresses of US secret networks.) Use _CTRL+F_ to find _'Text File'_ for the relevant part.
-* Here's [some commentary](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)). &#x20;
-* [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--Quentin is interviewed with other hackers. [Mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE)&#x20;
-* [**1994** Columns in UFO Magazine by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.
-* **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), includes the quote:&#x20;
+* [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--"Quentin" is interviewed with other hackers. [YouTube Mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE) &#x20;
+* **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13. The [e-zine](https://en.wikipedia.org/wiki/Online\_magazine) prints UFO-related search terms and IP addresses of US secret networks. (Use _CTRL+F_ to find _"Text File"_ for the relevant part.) &#x20;
+* Here's [a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) that predates the _Phrack_ article ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)). &#x20;
+* [**1994** Columns in _UFO Magazine_ by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.
+* **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), who includes the quote:&#x20;
 
 > _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (Dateline NBC producer)
-
-Quentin's true identity remains unknown.
 
 {% file src=".gitbook/assets/Quentin_UFO_Text_File_Sourcing.pdf" %}
 **2019** Report tracking down sources by Giuliano Marinkovic.
 {% endfile %}
 
-* **1994** [Mathew 'Kuji' Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
-  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
-*   **1996** Bevan is arrested [and considered an accomplice of Richard 'Datastream Cowboy' Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm), but Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to share their evidence with a UK court.) &#x20;
+Quentin's true identity remains unknown.
 
-    Bevan's case was covered extensively in the [media](http://www.kujimedia.com/musings/), [periodicals](http://www.kujimedia.com/gallery/), and [other](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm) online [sources](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). &#x20;
+## Mid-'90s: Mathew "Kuji" Bevan
+
+* **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
+  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
+* **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm), but Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to share their evidence with a UK court.) &#x20;
+* [Media](http://www.kujimedia.com/musings/) and [periodicals](http://www.kujimedia.com/gallery/) covered Beven's case extensively, along with [other](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm) online [sources](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). &#x20;
 * **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released.
 * **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm)
 
@@ -45,24 +45,24 @@ Bevan also says, &#x20;
 
 > I like to think what I saw was not misinformation. &#x20;
 
-### **Most Well-Known: Gary McKinnon**
+### **Most Well-Known: Gary "SOLO" McKinnon**
 
-**2001-2002** [Gary 'SOLO' McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seize his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
+**2001-2002** [Gary "SOLO" McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seize his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
 
 > _"The biggest military computer hack of all time."_ - US prosecutor
 
-* Interview in The Guardian newspaper: [**2005** article](https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2) &#x20;
-* **2006** interview with Gary for BBC Click Online: [YouTube video](https://www.youtube.com/watch?v=8ZPqFVM6j6A) &#x20;
-* **2006** interview by Project Camelot: [YouTube video](https://www.youtube.com/watch?v=t8MnfampJKU), [higher resolution video](https://odysee.com/project-camelot-gary-mckinnon-re-release:4d2a29deb3f304678557b927cad80fc5d63f5f52) &#x20;
-* Interview for WIRED Magazine: [**2006** article](https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/) &#x20;
-* Interview for .net Magazine: [**2006** article](https://medium.com/the-lindberg-interviews/interview-with-ufo-hacker-gary-mckinnon-5aa5d366828b)
-* "Solo" interviewed on Hacker's Voice Radio: [**2007** mp3](http://www.hackervoice.co.uk/show/archive/2007/hackervoiceradio19mar2007.MP3) &#x20;
+* Interview in _The Guardian_ newspaper: [**2005** article](https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2) &#x20;
+* **2006** interview with Gary for _BBC Click Online_: [YouTube video](https://www.youtube.com/watch?v=8ZPqFVM6j6A) &#x20;
+* **2006** interview by _Project Camelot_: [YouTube video](https://www.youtube.com/watch?v=t8MnfampJKU), [higher resolution video](https://odysee.com/project-camelot-gary-mckinnon-re-release:4d2a29deb3f304678557b927cad80fc5d63f5f52) &#x20;
+* Interview for _WIRED Magazine_: [**2006** article](https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/) &#x20;
+* Interview for _.net Magazine_: [**2006** article](https://medium.com/the-lindberg-interviews/interview-with-ufo-hacker-gary-mckinnon-5aa5d366828b)
+* "Solo" interviewed on _Hacker's Voice Radio_: [**2007** mp3](http://www.hackervoice.co.uk/show/archive/2007/hackervoiceradio19mar2007.MP3) &#x20;
 * **2007** talk on Gary at UFO Crash Con by Matthew Williams: [YouTube video](https://www.youtube.com/watch?v=Gf5uek-vSQE) &#x20;
   * Proceedings from this conference include an interview with Gary [here](gary-mckinnon/2007-ufo-crash-con.md). &#x20;
 * _Gary McKinnon: Britain's Hacking Hero?:_ [**2009** article](https://www.alphr.com/features/252972/gary-mckinnon-britains-hacking-hero) &#x20;
 * _The Autistic Hacker_ profile in IEEE Spectrum: [**2011** article](https://spectrum.ieee.org/the-autistic-hacker) &#x20;
 * **2015** interview by Richard D. Hall: [YouTube video](https://www.youtube.com/watch?v=SsfrmTXuw1Q) &#x20;
-* UFO Chronicles podcast **2019**: [web player](https://ufochroniclespodcast.com/ep2-gary-mckinnon/), [Spotify](https://open.spotify.com/episode/1xTupuxv2S5G40uVXz1cQD?si=80d9994ffec94d60), [mp3](https://api.spreaker.com/download/episode/52831240/ep\_2\_gary\_mckinnon.mp3?dl=true)
+* _UFO Chronicles_ podcast **2019**: [web player](https://ufochroniclespodcast.com/ep2-gary-mckinnon/), [Spotify](https://open.spotify.com/episode/1xTupuxv2S5G40uVXz1cQD?si=80d9994ffec94d60), [mp3](https://api.spreaker.com/download/episode/52831240/ep\_2\_gary\_mckinnon.mp3?dl=true)
 * **2019** interview by Richard Dolan: [YouTube video](https://www.youtube.com/watch?v=y6Is7809XFU) &#x20;
 * Interview by Richard Medhurst: [**2020** article](https://www.richardmedhurst.com/gary-mckinnon-interview/) &#x20;
 * Gary McKinnon's amazing Reddit AMA on /r/UFOs: [**2022** Reddit thread](https://old.reddit.com/r/UFOs/comments/t0imdw/hi\_im\_gary\_mckinnon\_i\_was\_in\_the\_news\_for\_a/) &#x20;
@@ -74,7 +74,7 @@ I have uploaded the full talk with audience questions [here](https://youtu.be/Hd
 The symposium proceedings include a transcript of Gary's speech, which I have archived [here](gary-mckinnon/2017-mufon-symposium.md).
 
 Edit: I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
-I used these same hacking techniques at around the same time, idea attributed to 'SOLO', capitaziled the same.
+I used these same hacking techniques at around the same time, idea attributed to "SOLO", capitaziled the same.
 
 #### Additional Articles for Further Reading
 
@@ -95,7 +95,7 @@ I used these same hacking techniques at around the same time, idea attributed to
 * **2009** DEFCON 17 - Hacking UFOlogy 102: The Implications of UFOs for Life, the Universe, and Everything: [M4B audio](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20audio/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20video/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Video.mp4), [YouTube video](https://www.youtube.com/watch?v=dHPAa-Ocq9s) &#x20;
 * **2013** Security BSides Las Vegas - Governments and UFOs: A Historical Analysis of Disinformation and Deception: [MP4 audio](https://infocon.org/cons/Security%20BSides/BSides%20Las%20Vegas/BSides%20Las%20Vegas%202013/Governments%20and%20UFOs%20A%20Historical%20Analysis%20of%20Disinformation%20and%20Deception%20R.mp4), [IronGeek](http://www.irongeek.com/i.php?page=videos/bsideslasvegas2013/1-2-7-governments-and-ufos-a-historical-analysis-of-disinformation-and-deception-richard-thieme), [Internet Archive](https://archive.org/details/bsideslv2013/Bsideslv2013-1-2-7GovernmentsAndUfosAHistoricalAnalysisOfDisinformationAndDeception-RichardThieme.avi), [YouTube video](https://www.youtube.com/watch?v=TKa356BIQV8) &#x20;
 * **2013** DEFCON 21 - The Government and UFOs: A Historical Analysis: [PDF slides](https://media.defcon.org/DEF%20CON%2021/DEF%20CON%2021%20presentations/DEF%20CON%2021%20-%20Richard-Thieme-UFOs-and-Govt.pdf), [TXT resources](https://media.defcon.org/DEF%20CON%2021/DEF%20CON%2021%20presentations/DEF%20CON%2021%20-%20Richard%20Thieme-UFOs-and-Govt-Resources.txt), [MP4 video](https://media.defcon.org/DEF%20CON%2021/DEF%20CON%2021%20video%20and%20slides/DEF%20CON%2021%20-%20Richard%20Thieme%20-%20The%20Government%20and%20UFOs%20A%20Historical%20Analysis%20-%20Video%20and%20Slides.mp4), [SRT subtitles](https://media.defcon.org/DEF%20CON%2021/DEF%20CON%2021%20video%20and%20slides/DEF%20CON%2021%20-%20Richard%20Thieme%20-%20The%20Government%20and%20UFOs%20A%20Historical%20Analysis%20-%20Video%20and%20Slides.srt), [Internet Archive](https://archive.org/details/youtube-r8k5kGbCR0M), [YouTube video](https://www.youtube.com/watch?v=r8k5kGbCR0M) &#x20;
-  * These two 2013 talks were in line with a book Thieme co-authored: [UFOs and Government: A Historical Inquiry](https://thiemeworks.com/words/books/ufos-and-government-a-historical-inquiry/). &#x20;
+  * These two 2013 talks were in line with a book Thieme co-authored: [_UFOs and Government: A Historical Inquiry_](https://thiemeworks.com/words/books/ufos-and-government-a-historical-inquiry/). &#x20;
   * Thieme also was interviewed by WBSD radio about the book: [Stream](https://thiemeworks.com/podcasts/wbsd-radio-interview-on-ufo-and-government/), [MP3 audio](https://thiemeworks.com/uploads/richard-thieme-wbsd-radio-interview.mp3)
 * **2014** THOTCON 0x5 - [UFOs and Government: a Case Study in Disinformation, Deception, and Perception Management](https://infocondb.org/con/thotcon/thotcon-0x5/ufos-and-government-a-case-study-in-disinformation-deception-and-perception-management) (No recording)
 * **2016** MUFON Symposium - Against the Wind: Why People Can't Think Seriously About UFOs: [Speaker Profile Video](https://www.youtube.com/watch?v=yVyuCAOSIMM), [MUFON TV](https://mufontelevision.com/mufon-2016-symposium/?vimeography\_gallery=18\&vimeography\_video=195010507), [Vimeo video](https://player.vimeo.com/video/195010507) &#x20;
@@ -105,7 +105,7 @@ I used these same hacking techniques at around the same time, idea attributed to
 
 Thieme has given talks on other topics as well, [see a more complete index here](https://infocondb.org/presenter/richard-thieme-neuralcowboy).
 
-Thieme also wrote a monthly column which was compiled in his book [Islands in the Clickstream](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original printing, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2003**, many of which involve the UFO topic, e.g. "UFOs and the Internet" from July 8, 1997.
+Thieme also wrote a monthly column which was compiled in his book [_Islands in the Clickstream_](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original printing, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2003**, many of which involve the UFO topic, e.g. "UFOs and the Internet" from July 8, 1997.
 
 * Reddit AMA with Richard Thieme on /r/UFOs: [**2022** Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/)
 
