@@ -113,7 +113,7 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 
 > We chase them, and we can't catch them.
 
-* _Source:_ **2014** Opinion: [Out of the closet on UFOs](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper
+* Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper
 
 **Historically Relevant: BBS Archives**
 
