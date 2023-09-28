@@ -1,12 +1,10 @@
 ---
-description: Who was "Quentin"?
+description: This is the history of hackers looking for evidence of UFOs.
 ---
 
 # 💻 Hackers & UFOs
 
-_This is the history of hackers looking for evidence of UFOs._ &#x20;
-
-### **Earliest Case: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
+## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
 * [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--"Quentin" is interviewed with other hackers. [YouTube Mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE) &#x20;
 * **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13. The [e-zine](https://en.wikipedia.org/wiki/Online\_magazine) prints UFO-related search terms and IP addresses of US secret networks, information supplied by "Quentin" and one or two accomplices. (Use _CTRL+F_ to find _"Text File"_ for the relevant part.) &#x20;
@@ -45,7 +43,7 @@ Bevan also says, &#x20;
 
 > I like to think what I saw was not misinformation. &#x20;
 
-### **Most Well-Known: Gary "SOLO" McKinnon**
+## **Most Well-Known: Gary "SOLO" McKinnon**
 
 **2001-2002** [Gary "SOLO" McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seize his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
 
@@ -85,9 +83,9 @@ I used these same hacking techniques at around the same time, idea attributed to
 * **2016** [Hackers Expose Secret Space Missions and Government UFO Research](https://www.gaia.com/article/hackers-expose-secret-space-missions-and-government-ufo-research) by Gaia Staff (factual errors) &#x20;
 * **2020** [UFO Hackers Pay the Price](https://medium.com/on-the-trail-of-the-saucers/from-kuji-to-solo-how-one-mans-curiosity-paved-the-way-for-a-new-generation-of-ufo-hackers-a94344452083) by Ryan Sprague (almost entirely a repost of his 2014 article) &#x20;
 
-### **Author, Professional Speaker: Richard Thieme**
+## **Author, Professional Speaker: Richard Thieme**
 
-[Richard 'neuralcowboy' Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**:
+[Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**:
 
 * **2002** MUFON Symposium - Are There UFOs on Mars?: [YouTube video](https://youtu.be/uwR4iAlMA0s)
 * **2006** DEFCON 14 - ([clip from talk](https://v.redd.it/fix3oedam2b91) - mentions crash retrievals and counterintelligence)
@@ -115,7 +113,7 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 
 * Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper
 
-**Historically Relevant: BBS Archives**
+### **Historically Relevant: BBS Archives**
 
 * _1976-1996_ UFO discussion takes place on BBSes (Bulletin Board Systems):\
   [TextFiles.com archive](http://textfiles.com/ufo/), [UFOBBS.com archive](https://github.com/thomhastings/ufobbs) (file [2850](http://textfiles.com/ufo/UFOBBS/2000/2850.ufo) is "Quentin" again) &#x20;
@@ -129,6 +127,6 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 * ~~Related TXT: The late John Lear's letters:~~ [~~1987~~](http://www.wolfbane.com/articles/john.lear.letter.pdf)~~,~~ [~~1988~~](http://www.sacred-texts.com/ufo/coverup.htm) ~~(See also~~ [~~John Lear~~](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)~~'s~~ [~~Websites~~](http://thelivingmoon.com)~~)~~ &#x20;
 
 ~~TL;DR: I gave a nervous presentation on this topic to a MUFON (Mutual UFO Network) chapter.~~\
-~~You can find the~~ [~~slides here~~](https://drive.google.com/file/d/117hzGARkd8h28lUTwg-kxXBXOcq1NlQG/view?usp=sharing)~~, and here is the unedited~~ [~~video of the talk~~](https://youtu.be/oQ0E76dI4wI?t=19m33s)~~. Presentation begins 20 minutes in.~~ _The information presented in this talk is not up-to-date with my latest research. I am working on a new presentation of the information._
+~~You can find the~~ [~~slides here~~](https://drive.google.com/file/d/117hzGARkd8h28lUTwg-kxXBXOcq1NlQG/view?usp=sharing)~~, and here is the unedited~~ [~~video of the talk~~](https://youtu.be/oQ0E76dI4wI?t=19m33s)~~. The presentation begins 20 minutes in.~~ _The information presented in this talk is not up-to-date with my latest research. I am working on a new presentation of the information._
 
 _Talk Errata:_ My old talk contains many errors. These include, but are not limited to: The Secret Service raid on Phrack Magazine began in 1989 ([Wikipedia](https://en.wikipedia.org/wiki/Phrack#Arrest\_of\_Knight\_Lightning)), and was not in response to Quentin's actions which were published later in 1992. In the Q\&A session, someone asked how long Gary was in military & NASA systems. He was inside different networks for five to seven years (according to his _The Guardian_ interview) before being arrested. He had been under observation for months, not days. He was charged for 13 months. Also, the network icon is in the lower-right system tray. (I initially got confused and said it was on the left.)
