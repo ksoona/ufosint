@@ -6,7 +6,7 @@ description: This is the history of hackers looking for evidence of UFOs.
 
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
-* [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--"Quentin" is interviewed with other hackers. [YouTube Mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE) &#x20;
+* [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--"Quentin" is interviewed with other hackers. [YouTube mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE) &#x20;
 * **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13. The [e-zine](https://en.wikipedia.org/wiki/Online\_magazine) prints UFO-related search terms and IP addresses of US secret networks, information supplied by "Quentin" and one or two accomplices. (Use _CTRL+F_ to find _"Text File"_ for the relevant part.) &#x20;
 * Here's [a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) that predates the _Phrack_ article ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)). &#x20;
 * [**1994** Columns in _UFO Magazine_ by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.
@@ -45,7 +45,7 @@ Bevan also says, &#x20;
 
 ## **Most Well-Known: Gary McKinnon**
 
-**2001-2002** [Gary "SOLO" McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seize his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
+**2001-2002** [Gary "SOLO" McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seized his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
 
 > _"The biggest military computer hack of all time."_ - US prosecutor
 
@@ -60,6 +60,7 @@ Bevan also says, &#x20;
 * _Gary McKinnon: Britain's Hacking Hero?:_ [**2009** article](https://www.alphr.com/features/252972/gary-mckinnon-britains-hacking-hero) &#x20;
 * _The Autistic Hacker_ profile in IEEE Spectrum: [**2011** article](https://spectrum.ieee.org/the-autistic-hacker) &#x20;
 * **2015** interview by Richard D. Hall: [YouTube video](https://www.youtube.com/watch?v=SsfrmTXuw1Q) &#x20;
+* **2018** [Gary](https://smallseo.co.uk/ill-be-on-the-next-series-of-ancient-aliens/) is featured on _Ancient Aliens_: [YouTube video](https://www.youtube.com/watch?v=20rWFDfh68Y)
 * _UFO Chronicles_ podcast **2019**: [web player](https://ufochroniclespodcast.com/ep2-gary-mckinnon/), [Spotify](https://open.spotify.com/episode/1xTupuxv2S5G40uVXz1cQD?si=80d9994ffec94d60), [mp3](https://api.spreaker.com/download/episode/52831240/ep\_2\_gary\_mckinnon.mp3?dl=true)
 * **2019** interview by Richard Dolan: [YouTube video](https://www.youtube.com/watch?v=y6Is7809XFU) &#x20;
 * Interview by Richard Medhurst: [**2020** article](https://www.richardmedhurst.com/gary-mckinnon-interview/) &#x20;
@@ -67,12 +68,12 @@ Bevan also says, &#x20;
 * **2022** interview by Tim Ventura: [YouTube video](https://www.youtube.com/watch?v=\_SOTGFj7BwI)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
 
-McKinnon spoke at the **2017 MUFON Sypmosium** via Skype, as announced on his [blog](https://smallseo.co.uk/ill-be-speaking-at-the-mufon-symposium-2017/).\
+McKinnon spoke at the **2017 MUFON Symposium** via Skype, as announced on his [blog](https://smallseo.co.uk/ill-be-speaking-at-the-mufon-symposium-2017/).\
 I have uploaded the full talk with audience questions [here](https://youtu.be/HdSSHTYRhuk). Just the talk is on [Gary's YouTube](https://youtu.be/LTemN5XTdec).\
 The symposium proceedings include a transcript of Gary's speech, which I have archived [here](gary-mckinnon/2017-mufon-symposium.md).
 
 Edit: I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
-I used these same hacking techniques at around the same time, idea attributed to "SOLO", capitaziled the same.
+I used these same hacking techniques at around the same time, idea attributed to "SOLO", capitalized the same.
 
 #### Additional Articles for Further Reading
 
