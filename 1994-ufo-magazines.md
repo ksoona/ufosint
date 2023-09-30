@@ -40,7 +40,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 ### MEDIA WATCH
 
-## **UPDATE: **_**HACKER'S UFO FILES ON 'DATELINE'**_
+## **UPDATE:** _**HACKER'S UFO FILES ON 'DATELINE'**_
 
 &#x20;    In _UFO_ (Vol. 9, No. 2) I reviewed a news segment about computer hackers that appeared on _Dateline NBC_ on October 27, 1992. During an interview with one of the hackers seen in silhouette during the program, screens were displayed that read:
 

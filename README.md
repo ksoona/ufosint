@@ -59,8 +59,8 @@ Bevan also says, &#x20;
 * **2007** "Solo" interviewed on _Hacker's Voice Radio_ podcast:[ mp3 audio](http://www.hackervoice.co.uk/show/archive/2007/hackervoiceradio19mar2007.MP3) &#x20;
 * **2007** talk on Gary at UFO Crash Con by Matthew Williams: [YouTube video](https://www.youtube.com/watch?v=Gf5uek-vSQE) &#x20;
   * Proceedings from this conference include an interview with Gary [here](gary-mckinnon/2007-ufo-crash-con.md). &#x20;
-* **2009 "**Gary McKinnon: Britain's Hacking Hero?": [article](https://www.alphr.com/features/252972/gary-mckinnon-britains-hacking-hero) &#x20;
-* **2011 "**The Autistic Hacker", profile in IEEE Spectrum: [article](https://spectrum.ieee.org/the-autistic-hacker) &#x20;
+* **2009** "Gary McKinnon: Britain's Hacking Hero?": [article](https://www.alphr.com/features/252972/gary-mckinnon-britains-hacking-hero) &#x20;
+* **2011** "The Autistic Hacker", profile in IEEE Spectrum: [article](https://spectrum.ieee.org/the-autistic-hacker) &#x20;
 * **2015** Interview by Richard D. Hall: [YouTube video](https://www.youtube.com/watch?v=SsfrmTXuw1Q) &#x20;
 * **2017** [Gary](https://web.archive.org/web/20220816040612/https://smallseo.co.uk/ill-be-speaking-at-the-mufon-symposium-2017/) spoke via video link at the MUFON Symposium**:** &#x20;
   * I have uploaded the full talk with audience questions [here](https://youtu.be/HdSSHTYRhuk). Just the talk is on [Gary's YouTube](https://youtu.be/LTemN5XTdec).
