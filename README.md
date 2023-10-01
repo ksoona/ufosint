@@ -6,9 +6,14 @@ description: This is the history of hackers looking for evidence of UFOs.
 
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
-* [**1992** Dateline NBC segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--"Quentin" is interviewed with other hackers. "Quentin told us he's...browsed through secret government files on UFOs, and gone snooping in our nation's military computers." (2:15) [YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ mirror](https://www.youtube.com/watch?v=5zjBrFSn3DE) &#x20;
+* [**1992** _Dateline NBC_ segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&feature=youtu.be\&t=2m15s)--"Quentin" is interviewed, with other hackers. &#x20;
+
+> "Quentin told us he's...browsed through secret government files on UFOs, and gone snooping in our nation's military computers." (Narrator, 2:15) &#x20;
+
+[YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ alternate video](https://www.youtube.com/watch?v=5zjBrFSn3DE) &#x20;
+
 * **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13. The [e-zine](https://en.wikipedia.org/wiki/Online\_magazine) prints UFO-related search terms and IP addresses of US secret networks, information supplied by "Quentin" and one or two accomplices. (Use _`CTRL+F`_ to find _"_`Text File`_"_ for the relevant part.) &#x20;
-* Here's [a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) that predates the _Phrack_ article ([archived](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)). &#x20;
+* Here's [a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) that predates the _Phrack_ article. ([Archived commentary](https://web.archive.org/web/20010303221709/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)) &#x20;
 * [**1994** Columns in _UFO Magazine_ by T. Scott Crain](1994-ufo-magazines.md), who wrote to NBC.
 * **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), who includes the quote:&#x20;
 
@@ -35,7 +40,7 @@ Quentin's true identity remains unknown.
 
 > _“Possibly the single biggest threat to world peace since Adolf Hitler.” -_ a Pentagon source
 
-Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). His first dial-up modem was a 1200/75 baud, then a 2400, and eventually a USR 14.4K.
+Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this over a USR 14.4K dial-up modem.
 
 Of note is that he got into a Wright-Patterson Air Force Base system that took no password and [saw plans for an antigravity drive](https://web.archive.org/web/20010306071223/http://www.artgomperz.com/a1998/jan/wpafb.html): &#x20;
 
@@ -67,7 +72,7 @@ Bevan also says, &#x20;
   * The symposium proceedings include a transcript of Gary's speech, which I have archived [here](gary-mckinnon/2017-mufon-symposium.md).
 * **2018** [Gary](https://web.archive.org/web/20220816034327/https://smallseo.co.uk/ill-be-on-the-next-series-of-ancient-aliens/) is featured on _Ancient Aliens_: [YouTube video](https://www.youtube.com/watch?v=20rWFDfh68Y)
 * **2019** _UFO Chronicles_ podcast: [web player](https://ufochroniclespodcast.com/ep2-gary-mckinnon/), [Spotify](https://open.spotify.com/episode/1xTupuxv2S5G40uVXz1cQD?si=80d9994ffec94d60), [mp3 audio](https://api.spreaker.com/download/episode/52831240/ep\_2\_gary\_mckinnon.mp3?dl=true) &#x20;
-* **2019** interview by Richard Dolan: [YouTube video](https://www.youtube.com/watch?v=y6Is7809XFU) &#x20;
+* **2019** Interview by Richard Dolan: [YouTube video](https://www.youtube.com/watch?v=y6Is7809XFU) &#x20;
 * **2020** Interview by Richard Medhurst: [article](https://www.richardmedhurst.com/gary-mckinnon-interview/) &#x20;
 * **2022** Gary McKinnon's Reddit AMA on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/t0imdw/hi\_im\_gary\_mckinnon\_i\_was\_in\_the\_news\_for\_a/) &#x20;
 * **2022** interview by Tim Ventura: [YouTube video](https://www.youtube.com/watch?v=\_SOTGFj7BwI)
