@@ -6,7 +6,7 @@ description: This is the history of hackers looking for evidence of UFOs.
 
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
-* [**1992** _Dateline NBC_ segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&t=77s)--"Quentin" is interviewed, with other hackers. [YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ lower quality video](https://www.youtube.com/watch?v=5zjBrFSn3DE)
+* [**1992** _Dateline NBC_ segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&t=77s)--"Quentin" is interviewed, with other hackers. [YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ alternate video](https://www.youtube.com/watch?v=5zjBrFSn3DE)
 
 > _"Quentin told us he's...browsed through secret government files on UFOs, and gone snooping in our nation's military computers."_ - Narrator (2:15) &#x20;
 
