@@ -25,11 +25,11 @@ Quentin's true identity remains unknown.
 * **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
   Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
 * **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm). However, Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to provide evidence of military digital intrusion to a UK court.) &#x20;
-* [Media](http://www.kujimedia.com/musings/) and [periodicals](http://www.kujimedia.com/gallery/) covered Bevan's case extensively, along with other  sources: &#x20;
-  * [Hacking U.S. Government Computers from Overseas](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm). (Internet Archive) &#x20;
-  * [U.S. info-warriors crap out in Crown Court](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). (Internet Archive) &#x20;
 * **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released.
 * **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm)
+* [Periodicals](http://www.kujimedia.com/gallery/), [newspapers](https://www.kujimedia.com/tag/kuji/page/4/), and [the media](http://www.kujimedia.com/musings/) covered Bevan's case extensively, along with other  sources: &#x20;
+  * **1999** [U.S. info-warriors crap out in Crown Court](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). (Archive) &#x20;
+  * **2003** [Hacking U.S. Government Computers from Overseas](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm). (Archive) &#x20;
 
 > _“Nearly started a third world war.”_ - Jim Christy, AFOSI
 
