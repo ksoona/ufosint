@@ -75,6 +75,7 @@ Bevan also says, &#x20;
 * **2020** Interview by Richard Medhurst: [article](https://www.richardmedhurst.com/gary-mckinnon-interview/) &#x20;
 * **2022** Gary McKinnon's Reddit AMA on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/t0imdw/hi\_im\_gary\_mckinnon\_i\_was\_in\_the\_news\_for\_a/) &#x20;
 * **2022** interview by Tim Ventura: [YouTube video](https://www.youtube.com/watch?v=\_SOTGFj7BwI)
+* **2023** interview by 'M' Seeker of Truth: [YouTube video](https://www.youtube.com/watch?v=BT\_cX6mpAms)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
 
 Edit: I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
