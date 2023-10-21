@@ -4,6 +4,8 @@ description: This is the history of hackers looking for evidence of UFOs.
 
 # 💻 Hackers & UFOs
 
+**TL;DR:** At least three hackers penetrated US military and/or government computer systems between about 1992 and 2002 looking for evidence related to UFOs. According to them, they found it.
+
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
 * [**1992** _Dateline NBC_ segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&t=77s)--"Quentin" is interviewed, with other hackers. [YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ alternate](https://www.youtube.com/watch?v=5zjBrFSn3DE)
@@ -95,7 +97,7 @@ I used these same hacking techniques at around the same time, idea attributed to
 [Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**:
 
 * **2002** MUFON Symposium - Are There UFOs on Mars?: [YouTube video](https://youtu.be/uwR4iAlMA0s)
-* **2006** DEFCON 14 - ([clip from talk](https://v.redd.it/fix3oedam2b91) - mentions crash retrievals and counterintelligence)
+* **2006** DEFCON 14 - ([clip from the talk](https://v.redd.it/fix3oedam2b91) - mentions crash retrievals and counterintelligence)
 * **2007** DEFCON 15 - Hacking UFOlogy: Thirty Years in the Wilderness of Mirrors: [PDF whitepaper](https://defcon.org/images/defcon-15/dc15-presentations/Thieme/Whitepaper/dc-15-thieme-WP.pdf), [M4B audio](https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20audio/DEF%20CON%2015%20Hacking%20Conference%20Presentation%20By%20Richard%20Theime%20-%20Hacking%20UFOlogy%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20video/DEF%20CON%2015%20-%20Richard%20Theime%20-%20Hacking%20UFOlogy%20-%20Video.mp4), [Internet Archive](https://archive.org/details/youtube-UaYFkKYzE7Q), [YouTube video](https://www.youtube.com/watch?v=XZkol9q6i5Q) &#x20;
 * **2009** DEFCON 17 - Hacking UFOlogy 102: The Implications of UFOs for Life, the Universe, and Everything: [M4B audio](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20audio/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20video/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Video.mp4), [YouTube video](https://www.youtube.com/watch?v=dHPAa-Ocq9s) &#x20;
 * **2013** Security BSides Las Vegas - Governments and UFOs: A Historical Analysis of Disinformation and Deception: [MP4 audio](https://infocon.org/cons/Security%20BSides/BSides%20Las%20Vegas/BSides%20Las%20Vegas%202013/Governments%20and%20UFOs%20A%20Historical%20Analysis%20of%20Disinformation%20and%20Deception%20R.mp4), [IronGeek](http://www.irongeek.com/i.php?page=videos/bsideslasvegas2013/1-2-7-governments-and-ufos-a-historical-analysis-of-disinformation-and-deception-richard-thieme), [Internet Archive](https://archive.org/details/bsideslv2013/Bsideslv2013-1-2-7GovernmentsAndUfosAHistoricalAnalysisOfDisinformationAndDeception-RichardThieme.avi), [YouTube video](https://www.youtube.com/watch?v=TKa356BIQV8) &#x20;
