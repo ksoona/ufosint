@@ -4,6 +4,8 @@ description: An unknown hacker named "Quentin" was the first.
 
 # 🧢 "Quentin" Overview
 
+![](../.gitbook/assets/quentin1.png)
+
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
 * [**1992** _Dateline NBC_ segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&t=77s)--"Quentin" is interviewed, with other hackers. [YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ alternate](https://www.youtube.com/watch?v=5zjBrFSn3DE)
@@ -23,3 +25,5 @@ description: An unknown hacker named "Quentin" was the first.
 {% endfile %}
 
 Quentin's true identity remains unknown.
+
+![](../.gitbook/assets/quentin2.png)

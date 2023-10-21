@@ -4,6 +4,8 @@ description: Gary McKinnon's case got the most publicity.
 
 # 👨💻 McKinnon Overview
 
+![](../.gitbook/assets/McKinnon.jpg)
+
 ## **Most Well-Known: Gary McKinnon**
 
 > _"The biggest military computer hack of all time."_ - US prosecutor

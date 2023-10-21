@@ -4,6 +4,8 @@ description: Richard Thieme has spoken to hackers on UFOs.
 
 # 📖 Thieme Overview
 
+![](../.gitbook/assets/Thieme.jpg)
+
 ## **Author, Professional Speaker: Richard Thieme**
 
 [Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**:

@@ -7,9 +7,9 @@
 * [🧢 "Quentin" Overview](quentin/quentin-overview.md)
 * [📰 1994 UFO Magazines](quentin/1994-ufo-magazines.md)
 
-## 🧑💼 Matthew Bevan
+## 🧑💼 Mathew Bevan
 
-* [👩💻 Bevan Overview](matthew-bevan/bevan-overview.md)
+* [👩💻 Bevan Overview](mathew-bevan/bevan-overview.md)
 * [⌨ Kuji's Webpage](https://www.kujimedia.com/)
 
 ## 👨💼 Gary McKinnon
