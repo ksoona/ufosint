@@ -13,7 +13,7 @@ description: This is the history of hackers looking for evidence of UFOs.
 * **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13. (Use _`CTRL+F`_ to find _"_`Text File`_"_ for the relevant part.)  \
   The [e-zine](https://en.wikipedia.org/wiki/Online\_magazine) prints UFO-related search terms and IP addresses of US secret networks, information supplied by "Quentin" and possibly two or more accomplices. &#x20;
 * [Here's a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) that predates the _Phrack_ article. ([Archived commentary](https://web.archive.org/web/20010303221709/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)) &#x20;
-* [**1994** Columns in _UFO Magazine_ by T. Scott Crain](1994-ufo-magazines.md), who wrote letters to NBC.
+* [**1994** Columns in _UFO Magazine_ by T. Scott Crain](quentin/1994-ufo-magazines.md), who wrote letters to NBC.
 * **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), who attributes the quote:&#x20;
 
 > _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (Dateline NBC producer)
@@ -131,7 +131,7 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 * _1990's_ UFO BBS Files archive: [Sacred-Texts.com repository of UFO BBS Files](https://www.sacred-texts.com/ufo/ufobbs.htm)
 * _1981+_ A trove of historical Usenet newsgroup postings can be found on [Google Groups](https://groups.google.com/forum/#!forumsearch/ufo) &#x20;
 * _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
-* ~~Related TXT: The late John Lear's letters:~~ [~~1987~~](http://www.wolfbane.com/articles/john.lear.letter.pdf)~~,~~ [~~1988~~](http://www.sacred-texts.com/ufo/coverup.htm) ~~(See also~~ [~~John Lear~~](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)~~'s~~ [~~Websites~~](http://thelivingmoon.com)~~)~~ &#x20;
+* Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
 
 ~~TL;DR: I gave a nervous presentation on this topic to a MUFON (Mutual UFO Network) chapter.~~\
 ~~You can find the~~ [~~slides here~~](https://drive.google.com/file/d/117hzGARkd8h28lUTwg-kxXBXOcq1NlQG/view?usp=sharing)~~, and here is the unedited~~ [~~video of the talk~~](https://youtu.be/oQ0E76dI4wI?t=19m33s)~~. The presentation begins 20 minutes in.~~ _The information presented in this talk is not up-to-date with my latest research. I am working on a new presentation of the information._

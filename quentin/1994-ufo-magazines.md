@@ -6,7 +6,7 @@ description: '"Media Watch" columns on Dateline NBC segment with "Quentin"'
 
 The following two articles were written by T. Scott Crain in response to an [October 27, 1992 _Dateline NBC_ television segment](https://www.youtube.com/watch?v=N0QflNaPi7A). I sourced copies of the magazines and transcribed the articles, adding relevant images.
 
-<figure><img src=".gitbook/assets/UFOmag9-2_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/UFOmag9-2_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 2</p></figcaption></figure>
 
 #### 1994 UFO Magazine, Volume 9, Number 2, Page 14:
 
@@ -18,7 +18,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 &#x20;    Unfortunately, the cameraman did not scroll down the computer screen to show the TV viewer what those parts were. A second screen listed the following: “KIRTLAND AFB/OFFICE OF SPECIAL INVESTIGATIONS, SANDIA/NSA INTERCEPT EQUIPMENT DIVISION/KEY WORDS/NAMES/Sandia Labs, Project Beta (1979-83-?), Paul Bennewitz.”
 
-<figure><img src=".gitbook/assets/screens.png" alt=""><figcaption><p>The screens in question.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screens.png" alt=""><figcaption><p>The screens in question.</p></figcaption></figure>
 
 &#x20;    If the first screen was authentic, then the data would seem to confirm many of the rumors that Wright-Patterson Air Force Base has a storage facility of UFO parts—and it’s underground.
 
@@ -34,7 +34,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 
 
-<figure><img src=".gitbook/assets/UFOmag9-3_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/UFOmag9-3_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 3</p></figcaption></figure>
 
 #### **1994** UFO Magazine, Volume 9, Number 3, Page 18:
 
@@ -46,7 +46,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 &#x20;    “WRIGHT PATTERSON AFB/Catalogued UFO parts list, an underground facility of Foreign...” and “KIRTLAND AFB/OFFICE OF SPECIAL INVESTIGATIONS, SANDIA/NSA INTERCEPT EQUIPMENT DIVISION/KEY WORDS/NAMES/Sandia Labs, Project Beta (1979-83-?), Paul Bennewitz.”
 
-<figure><img src=".gitbook/assets/quentin1.png" alt="" width="318"><figcaption><p>"Quentin" on Dateline NBC.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/quentin1.png" alt="" width="318"><figcaption><p>"Quentin" on Dateline NBC.</p></figcaption></figure>
 
 &#x20;    When I wrote the program back in November of '92, I got no response. However, after _UFO_ published my article, I wrote them again on March 4 of this year, and included a copy of the article.
 
@@ -56,7 +56,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 &#x20;    The segment was about computer hackers, not UFOs. The hacker interviewed, who wishes to remain anonymous, apparently had a lot of material, much of it delving into all sorts of classified data from government computers. “Dateline NBC” asked to see the most interesting stuff he had, and they narrowed it down to three subjects. “We chose to use the UFO data screens because we thought it was interesting material,” she said. “There was no effort by NBC to conceal information that may have followed on the screens.”
 
-<figure><img src=".gitbook/assets/quentin2.png" alt="" width="318"><figcaption><p>"Quentin" in silhouette.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/quentin2.png" alt="" width="318"><figcaption><p>"Quentin" in silhouette.</p></figcaption></figure>
 
 &#x20;    Adams could not emphasize enough that NBC lawyers went over this segment with a fine-tooth comb, and as far as their crew is concerned, the material was legitimate. She explained that the hackers are committing a felony, and there’s no way their identities can be revealed. The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond.
 

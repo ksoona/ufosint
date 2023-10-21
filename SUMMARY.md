@@ -1,12 +1,30 @@
 # Table of contents
 
 * [💻 Hackers & UFOs](README.md)
-* [📰 1994 UFO Magazines](1994-ufo-magazines.md)
+
+## ❔ "Quentin"
+
+* [🧢 "Quentin" Overview](quentin/quentin-overview.md)
+* [📰 1994 UFO Magazines](quentin/1994-ufo-magazines.md)
+
+## 🧑💼 Matthew Bevan
+
+* [👩💻 Bevan Overview](matthew-bevan/bevan-overview.md)
+* [⌨ Kuji's Webpage](https://www.kujimedia.com/)
 
 ## 👨💼 Gary McKinnon
 
+* [👨💻 McKinnon Overview](gary-mckinnon/mckinnon-overview.md)
 * [☄ 2007 UFO Crash Con](gary-mckinnon/2007-ufo-crash-con.md)
 * [🎤 2017 MUFON Symposium](gary-mckinnon/2017-mufon-symposium.md)
+
+## 📕 Richard Thieme
+
+* [📖 Thieme Overview](richard-thieme/thieme-overview.md)
+
+## 📚 Other
+
+* [📺 Archives & BBSes](other/archives-and-bbses.md)
 
 ***
 
