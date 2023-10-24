@@ -1,5 +1,5 @@
 ---
-description: An unknown hacker named "Quentin" was the first.
+description: An unknown hacker with the pseudonym "Quentin" was the first.
 ---
 
 # 🧢 "Quentin" Overview
