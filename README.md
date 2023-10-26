@@ -4,7 +4,15 @@ description: This is the history of hackers looking for evidence of UFOs.
 
 # 💻 Hackers & UFOs
 
-**TL;DR:** At least three hackers penetrated US military and/or government computer systems between about 1992 and 2002 looking for evidence related to UFOs. According to them, they found it.
+**TL;DR:** At least three hackers targeted US military and/or government computer systems between about 1992 and 2002 looking for evidence related to UFOs. According to them, they found it. &#x20;
+
+_Table of Contents:_  \
+[**Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_](./#earliest-quentin-on-dateline-nbc-and-in-phrack)  \
+[**Mid-'90s: Mathew Bevan**](./#mid-90s-mathew-bevan)  \
+[**Most Well-Known: Gary McKinnon**](./#most-well-known-gary-mckinnon)  \
+[Additional Articles for Further Reading](./#additional-articles-for-further-reading)  \
+[**Author, Professional Speaker: Richard Thieme**](./#author-professional-speaker-richard-thieme)  \
+[Historically Relevant: BBSes and Other Archives](./#historically-relevant-bbses-and-other-archives) &#x20;
 
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
@@ -116,13 +124,15 @@ Thieme also wrote a monthly column which was compiled in his book [_Islands in t
 
 * **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/)
 
+Thieme's **2023** book [_Mobius: Out of Time_](https://thiemeworks.com/words/books/mobius-out-of-time/) covers "the deft management of UFO phenomena and research in the intelligence community," among other topics.
+
 While an Episcopal priest, Thieme reports a fighter pilot confided in him regarding UFOs, confirming that in their fastest jets,
 
 > We chase them, and we can't catch them.
 
 * Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper
 
-### **Historically Relevant: BBS and Other Archives**
+### **Historically Relevant: BBSes and Other Archives**
 
 * _1976-1996_ UFO discussion takes place on BBSes (Bulletin Board Systems):\
   [TextFiles.com archive](http://textfiles.com/ufo/), [UFOBBS.com archive](https://github.com/thomhastings/ufobbs) (file [2850](http://textfiles.com/ufo/UFOBBS/2000/2850.ufo) is "Quentin" again) &#x20;
@@ -135,7 +145,7 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 * _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
 * Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
 
-~~TL;DR: I gave a nervous presentation on this topic to a MUFON (Mutual UFO Network) chapter.~~\
+~~TL;DR: I gave a nervous presentation on this topic at a MUFON (Mutual UFO Network) chapter meeting.~~\
 ~~You can find the~~ [~~slides here~~](https://drive.google.com/file/d/117hzGARkd8h28lUTwg-kxXBXOcq1NlQG/view?usp=sharing)~~, and here is the unedited~~ [~~video of the talk~~](https://youtu.be/oQ0E76dI4wI?t=19m33s)~~. The presentation begins 20 minutes in.~~ _The information presented in this talk is not up-to-date with my latest research. I am working on a new presentation of the information._
 
 _Talk Errata:_ My old talk contains many errors. These include, but are not limited to: The Secret Service raid on Phrack Magazine began in 1989 ([Wikipedia](https://en.wikipedia.org/wiki/Phrack#Arrest\_of\_Knight\_Lightning)), and was not in response to Quentin's actions which were published later in 1992. In the Q\&A session, someone asked how long Gary was in military & NASA systems. He was inside different networks for five to seven years (according to his _The Guardian_ interview) before being arrested. He had been under observation for months, not days. He was charged for 13 months. Also, the network icon is in the lower-right system tray. (I initially got confused and said it was on the left.)
