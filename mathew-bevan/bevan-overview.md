@@ -1,5 +1,5 @@
 ---
-description: Matthew Bevan was the first UFO hacker to be arrested.
+description: Mathew "Kuji" Bevan was the first UFO hacker to be arrested.
 ---
 
 # 👩💻 Bevan Overview

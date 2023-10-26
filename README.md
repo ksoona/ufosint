@@ -8,10 +8,10 @@ description: This is the history of hackers looking for evidence of UFOs.
 
 _Table of Contents:_  \
 [**Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_](./#earliest-quentin-on-dateline-nbc-and-in-phrack)  \
-[**Mid-'90s: Mathew Bevan**](./#mid-90s-mathew-bevan)  \
-[**Most Well-Known: Gary McKinnon**](./#most-well-known-gary-mckinnon)  \
+[**Mid-'90s: Mathew "Kuji" Bevan**](./#mid-90s-mathew-bevan)  \
+[**Most Well-Known: Gary "SOLO" McKinnon**](./#most-well-known-gary-mckinnon)  \
 [Additional Articles for Further Reading](./#additional-articles-for-further-reading)  \
-[**Author, Professional Speaker: Richard Thieme**](./#author-professional-speaker-richard-thieme)  \
+[**Author, Professional Speaker: Richard "neuralcowboy" Thieme**](./#author-professional-speaker-richard-thieme)  \
 [Historically Relevant: BBSes and Other Archives](./#historically-relevant-bbses-and-other-archives) &#x20;
 
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
@@ -26,7 +26,7 @@ _Table of Contents:_  \
 * [**1994** Columns in _UFO Magazine_ by T. Scott Crain](quentin/1994-ufo-magazines.md), who wrote letters to NBC.
 * **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), who attributes the quote:&#x20;
 
-> _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (Dateline NBC producer)
+> _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (_Dateline NBC_ producer)
 
 {% file src=".gitbook/assets/Quentin_UFO_Text_File_Sourcing.pdf" %}
 **2019** Report by Giuliano Marinkovic tracking Quentin's text file.
@@ -118,19 +118,19 @@ I used these same hacking techniques at around the same time, idea attributed to
 * **2021** DEFCON 29 - UFOs: Misinformation, Disinformation, and the Basic Truth: [PDF slides](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Richard%20Thieme%20AKA%20neuralcowbo%20-%20UFOs%20-%20%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.pdf), [MP4 video](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.mp4), [SRT subtitles](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.srt), [YouTube video](https://www.youtube.com/watch?v=mExktWB0qz4) &#x20;
 * **2022** DEFCON 30 - UFOs, Alien Life, and the Least Untruthful Things I Can Say: [Abstract](https://forum.defcon.org/node/242199), [PDF slides](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Richard%20Thieme%20-%20UFOs%20Alien%20Life%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.pdf), [MP4 video](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.mp4), [SRT subtitles](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.srt), [YouTube video](https://www.youtube.com/watch?v=VWu14-EfucI) &#x20;
 
-Thieme has given talks on other topics as well, [see a more complete index here](https://infocondb.org/presenter/richard-thieme-neuralcowboy).
+Thieme has given talks on other topics as well, [see a more complete index here](https://infocondb.org/presenter/richard-thieme-neuralcowboy). &#x20;
 
-Thieme also wrote a monthly column which was compiled in his book [_Islands in the Clickstream_](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original printing, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2003**, many of which involve the UFO topic, e.g. "UFOs and the Internet" from July 8, 1997.
+Thieme also wrote a monthly column which was compiled in his book [_Islands in the Clickstream_](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original printing, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2003**, many of which involve the UFO topic, e.g. "UFOs and the Internet" from July 8, 1997. &#x20;
 
-* **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/)
+* **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/) &#x20;
 
-Thieme's **2023** book [_Mobius: Out of Time_](https://thiemeworks.com/words/books/mobius-out-of-time/) covers "the deft management of UFO phenomena and research in the intelligence community," among other topics.
+Thieme's **2023** book [_Mobius: Out of Time_](https://thiemeworks.com/words/books/mobius-out-of-time/) covers "the deft management of UFO phenomena and research in the intelligence community," among other topics. &#x20;
 
-While an Episcopal priest, Thieme reports a fighter pilot confided in him regarding UFOs, confirming that in their fastest jets,
+While an Episcopal priest, Thieme reports a fighter pilot confided in him regarding UFOs, confirming that in their fastest jets, &#x20;
 
-> We chase them, and we can't catch them.
+> We chase them, and we can't catch them. &#x20;
 
-* Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper
+* Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper &#x20;
 
 ### **Historically Relevant: BBSes and Other Archives**
 
@@ -146,6 +146,6 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 * Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
 
 ~~TL;DR: I gave a nervous presentation on this topic at a MUFON (Mutual UFO Network) chapter meeting.~~\
-~~You can find the~~ [~~slides here~~](https://drive.google.com/file/d/117hzGARkd8h28lUTwg-kxXBXOcq1NlQG/view?usp=sharing)~~, and here is the unedited~~ [~~video of the talk~~](https://youtu.be/oQ0E76dI4wI?t=19m33s)~~. The presentation begins 20 minutes in.~~ _The information presented in this talk is not up-to-date with my latest research. I am working on a new presentation of the information._
+~~You can find the~~ [~~slides here~~](https://drive.google.com/file/d/117hzGARkd8h28lUTwg-kxXBXOcq1NlQG/view?usp=sharing)~~, and here is the unedited~~ [~~video of the talk~~](https://youtu.be/oQ0E76dI4wI?t=19m33s)~~. The presentation begins 20 minutes in.~~ _The information presented in this talk is not up-to-date with my latest research. I am working on a new presentation of the information._ &#x20;
 
-_Talk Errata:_ My old talk contains many errors. These include, but are not limited to: The Secret Service raid on Phrack Magazine began in 1989 ([Wikipedia](https://en.wikipedia.org/wiki/Phrack#Arrest\_of\_Knight\_Lightning)), and was not in response to Quentin's actions which were published later in 1992. In the Q\&A session, someone asked how long Gary was in military & NASA systems. He was inside different networks for five to seven years (according to his _The Guardian_ interview) before being arrested. He had been under observation for months, not days. He was charged for 13 months. Also, the network icon is in the lower-right system tray. (I initially got confused and said it was on the left.)
+_Talk Errata:_ My old talk contains many errors. These include, but are not limited to: The Secret Service raid on Phrack Magazine began in 1989 ([Wikipedia](https://en.wikipedia.org/wiki/Phrack#Arrest\_of\_Knight\_Lightning)), and was not in response to Quentin's actions which were published later in 1992. In the Q\&A session, someone asked how long Gary was in military & NASA systems. He was inside different networks for five to seven years (according to his _The Guardian_ interview) before being arrested. He had been under observation for months, not days. He was charged for 13 months. Also, the network icon is in the lower-right system tray. (I initially got confused and said it was on the left.) &#x20;

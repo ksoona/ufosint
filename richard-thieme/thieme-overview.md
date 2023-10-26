@@ -1,5 +1,5 @@
 ---
-description: Richard Thieme has spoken to hackers on UFOs.
+description: Richard "neuralcowboy" Thieme has spoken to hackers on UFOs.
 ---
 
 # 📖 Thieme Overview
@@ -10,7 +10,7 @@ description: Richard Thieme has spoken to hackers on UFOs.
 
 [Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**: &#x20;
 
-* **2002** MUFON Symposium - Are There UFOs on Mars?: [YouTube video](https://youtu.be/uwR4iAlMA0s)
+* **2002** MUFON Symposium - Are There UFOs on Mars?: " [YouTube vide](https://youtu.be/uwR4iAlMA0s)
 * **2006** DEFCON 14 - ([clip from talk](https://v.redd.it/fix3oedam2b91) - mentions crash retrievals and counterintelligence)
 * **2007** DEFCON 15 - Hacking UFOlogy: Thirty Years in the Wilderness of Mirrors: [PDF whitepaper](https://defcon.org/images/defcon-15/dc15-presentations/Thieme/Whitepaper/dc-15-thieme-WP.pdf), [M4B audio](https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20audio/DEF%20CON%2015%20Hacking%20Conference%20Presentation%20By%20Richard%20Theime%20-%20Hacking%20UFOlogy%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20video/DEF%20CON%2015%20-%20Richard%20Theime%20-%20Hacking%20UFOlogy%20-%20Video.mp4), [Internet Archive](https://archive.org/details/youtube-UaYFkKYzE7Q), [YouTube video](https://www.youtube.com/watch?v=XZkol9q6i5Q) &#x20;
 * **2009** DEFCON 17 - Hacking UFOlogy 102: The Implications of UFOs for Life, the Universe, and Everything: [M4B audio](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20audio/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20video/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Video.mp4), [YouTube video](https://www.youtube.com/watch?v=dHPAa-Ocq9s) &#x20;

@@ -1,12 +1,12 @@
 ---
-description: Gary McKinnon's extradition case got the most publicity.
+description: Gary "SOLO" McKinnon's extradition case got the most publicity.
 ---
 
 # 👨💻 McKinnon Overview
 
 ![](../.gitbook/assets/McKinnon.jpg)
 
-## **Most Well-Known: Gary McKinnon**
+## **Most Well-Known: Gary "SOLO" McKinnon**
 
 > _"The biggest military computer hack of all time."_ - US prosecutor
 
