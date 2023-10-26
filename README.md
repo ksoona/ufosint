@@ -7,12 +7,12 @@ description: This is the history of hackers looking for evidence of UFOs.
 **TL;DR:** At least three hackers targeted US military and/or government computer systems between about 1992 and 2002 looking for evidence related to UFOs. According to them, they found it. &#x20;
 
 _Table of Contents:_  \
-[**Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_](./#earliest-quentin-on-dateline-nbc-and-in-phrack)  \
-[**Mid-'90s: Mathew "Kuji" Bevan**](./#mid-90s-mathew-bevan)  \
-[**Most Well-Known: Gary "SOLO" McKinnon**](./#most-well-known-gary-mckinnon)  \
-[Additional Articles for Further Reading](./#additional-articles-for-further-reading)  \
-[**Author, Professional Speaker: Richard "neuralcowboy" Thieme**](./#author-professional-speaker-richard-thieme)  \
-[Historically Relevant: BBSes and Other Archives](./#historically-relevant-bbses-and-other-archives) &#x20;
+[**1992: "Quentin"**](./#earliest-quentin-on-dateline-nbc-and-in-phrack)  \
+[**1996: Mathew "Kuji" Bevan**](./#mid-90s-mathew-bevan)  \
+[**2002: Gary "SOLO" McKinnon**](./#most-well-known-gary-mckinnon)  \
+[Further Reading](./#additional-articles-for-further-reading)  \
+[**2007: Richard "neuralcowboy" Thieme**](./#author-professional-speaker-richard-thieme)  \
+[BBSes & Other Archives](./#historically-relevant-bbses-and-other-archives) &#x20;
 
 ## **Earliest: "Quentin" on **_**Dateline NBC**_** and in **_**Phrack**_
 
@@ -37,7 +37,7 @@ Quentin's true identity remains unknown.
 ## Mid-'90s: Mathew Bevan
 
 * **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
-  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
+  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being [a group of 50 hackers who went missing](https://youtu.be/bHtItL-lNAE?si=OvFBQzGVDEpI8UA2\&t=327),) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
 * **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm). However, Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to provide evidence of military digital intrusion to a UK court.) &#x20;
 * **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released.
 * **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm)
