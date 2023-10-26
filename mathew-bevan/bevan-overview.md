@@ -1,5 +1,5 @@
 ---
-description: Matthew Bevan was the 1st UFO hacker to be arrested.
+description: Matthew Bevan was the first UFO hacker to be arrested.
 ---
 
 # 👩💻 Bevan Overview

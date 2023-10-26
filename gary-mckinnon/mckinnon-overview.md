@@ -1,5 +1,5 @@
 ---
-description: Gary McKinnon's case got the most publicity.
+description: Gary McKinnon's extradition case got the most publicity.
 ---
 
 # 👨💻 McKinnon Overview
