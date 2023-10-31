@@ -4,7 +4,7 @@ description: UFO conversation goes back to the early Internet.
 
 # 📺 Archives & BBSes
 
-### **Historically Relevant: BBS and Other Archives**
+### **Historically Relevant: BBSes and Other Archives**
 
 * _1976-1996_ UFO discussion takes place on BBSes (Bulletin Board Systems):\
   [TextFiles.com archive](http://textfiles.com/ufo/), [UFOBBS.com archive](https://github.com/thomhastings/ufobbs) (file [2850](http://textfiles.com/ufo/UFOBBS/2000/2850.ufo) is "Quentin" again) &#x20;
