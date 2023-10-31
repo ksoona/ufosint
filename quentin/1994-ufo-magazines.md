@@ -1,5 +1,5 @@
 ---
-description: '"Media Watch" columns on Dateline NBC segment with "Quentin"'
+description: Columns on Dateline NBC segment with "Quentin"
 ---
 
 # 📰 1994 UFO Magazines
@@ -18,7 +18,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 &#x20;    Unfortunately, the cameraman did not scroll down the computer screen to show the TV viewer what those parts were. A second screen listed the following: “KIRTLAND AFB/OFFICE OF SPECIAL INVESTIGATIONS, SANDIA/NSA INTERCEPT EQUIPMENT DIVISION/KEY WORDS/NAMES/Sandia Labs, Project Beta (1979-83-?), Paul Bennewitz.”
 
-<figure><img src="../.gitbook/assets/screens.png" alt=""><figcaption><p>The screens in question.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/quentin1.png" alt="" width="318"><figcaption><p>"Quentin" on Dateline NBC.</p></figcaption></figure>
 
 &#x20;    If the first screen was authentic, then the data would seem to confirm many of the rumors that Wright-Patterson Air Force Base has a storage facility of UFO parts—and it’s underground.
 
@@ -46,7 +46,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 &#x20;    “WRIGHT PATTERSON AFB/Catalogued UFO parts list, an underground facility of Foreign...” and “KIRTLAND AFB/OFFICE OF SPECIAL INVESTIGATIONS, SANDIA/NSA INTERCEPT EQUIPMENT DIVISION/KEY WORDS/NAMES/Sandia Labs, Project Beta (1979-83-?), Paul Bennewitz.”
 
-<figure><img src="../.gitbook/assets/quentin1.png" alt="" width="318"><figcaption><p>"Quentin" on Dateline NBC.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screens.png" alt=""><figcaption><p>The screens in question.</p></figcaption></figure>
 
 &#x20;    When I wrote the program back in November of '92, I got no response. However, after _UFO_ published my article, I wrote them again on March 4 of this year, and included a copy of the article.
 
