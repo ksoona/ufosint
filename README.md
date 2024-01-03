@@ -102,7 +102,7 @@ Next, Gary says he used RemotelyAnywhere to remotely control the NASA JSC deskto
 Install <–computer COMPUTER> <–path PATH> [-port PORT] [-minimal] [-license FILENAME]
 ```
 
-Lastly, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
+Last, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
 I used these same hacking techniques at around the same time. As seen, the idea is attributed to "SOLO", capitalized the same as Gary's handle. &#x20;
 
 #### Additional Articles for Further Reading
