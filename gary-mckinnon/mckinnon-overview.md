@@ -35,11 +35,28 @@ description: Gary "SOLO" McKinnon's extradition case got the most publicity.
 * **2023** interview by 'M' Seeker of Truth: [YouTube video](https://www.youtube.com/watch?v=BT\_cX6mpAms)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
 
-Edit: I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
-I used these same hacking techniques at around the same time, idea attributed to "SOLO", capitalized the same.
+#### Corroborating Technical Evidence
+
+First, Gary says that he used IPindex.net for reconnaissance. Using the [Internet Archive of that site](https://web.archive.org/web/20000510074952/http://www.ipindex.net/index.html), and comparing it with [the specific IPs from his indictment](https://cryptome.org/ips-bared.htm), we can see that the IP ranges in Texas correspond to NASA Johnson Space Center. &#x20;
+
+```
+139.169.0.0	NASA/Johnson Space Center, TX (NET-JIN)
+```
+
+Next, Gary says he used RemotelyAnywhere to remotely control the NASA JSC desktop. Looking at the 2002 [manual for RemotelyAnywhere](https://manualzz.com/doc/32532703/remotelyanywhere-documentation), remote installation is documented: &#x20;
+
+```
+Install <–computer COMPUTER> <–path PATH> [-port PORT] [-minimal] [-license FILENAME]
+```
+
+Lastly, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
+I used these same hacking techniques at around the same time. As seen, the idea is attributed to "SOLO", capitalized the same as Gary's handle. &#x20;
 
 #### Additional Articles for Further Reading
 
 * **2012** [Gary was unlucky](https://www.independent.co.uk/voices/comment/gary-was-unlucky-he-s-not-even-a-good-hacker-8215802.html) by Peter Warren (how Gary was caught) &#x20;
 * **2012** BBC [Profile: Gary McKinnon](https://www.bbc.com/news/uk-19946902) (why Gary's extradition was blocked) &#x20;
 * **2014** [From Kuji to Solo](https://vocal.media/futurism/from-kuji-to-solo) by Ryan Sprague (covers both Mathew Bevan and Gary McKinnon) &#x20;
+* **2016** [UFO Hacker Gary McKinnon Story](https://web.archive.org/web/20220128033810/http://fourthkind.com/ufo-hacker-gary-mckinnon-story/) by Joel Hasse (/u/EarthmanJoel's fantastic article) &#x20;
+* **2016** [Hackers Expose Secret Space Missions and Government UFO Research](https://www.gaia.com/article/hackers-expose-secret-space-missions-and-government-ufo-research) by Gaia Staff (factual errors) &#x20;
+* **2020** [UFO Hackers Pay the Price](https://medium.com/on-the-trail-of-the-saucers/from-kuji-to-solo-how-one-mans-curiosity-paved-the-way-for-a-new-generation-of-ufo-hackers-a94344452083) by Ryan Sprague (almost entirely a repost of his 2014 article) &#x20;

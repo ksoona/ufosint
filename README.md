@@ -88,8 +88,22 @@ Bevan also says, &#x20;
 * **2023** interview by 'M' Seeker of Truth: [YouTube video](https://www.youtube.com/watch?v=BT\_cX6mpAms)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
 
-Edit: I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
-I used these same hacking techniques at around the same time, idea attributed to "SOLO", capitalized the same.
+#### Corroborating Technical Evidence
+
+First, Gary says that he used IPindex.net for reconnaissance. Using the [Internet Archive of that site](https://web.archive.org/web/20000510074952/http://www.ipindex.net/index.html), and comparing it with [the specific IPs from his indictment](https://cryptome.org/ips-bared.htm), we can see that the IP ranges in Texas correspond to NASA Johnson Space Center. &#x20;
+
+```
+139.169.0.0	NASA/Johnson Space Center, TX (NET-JIN)
+```
+
+Next, Gary says he used RemotelyAnywhere to remotely control the NASA JSC desktop. Looking at the 2002 [manual for RemotelyAnywhere](https://manualzz.com/doc/32532703/remotelyanywhere-documentation), remote installation is documented: &#x20;
+
+```
+Install <–computer COMPUTER> <–path PATH> [-port PORT] [-minimal] [-license FILENAME]
+```
+
+Lastly, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
+I used these same hacking techniques at around the same time. As seen, the idea is attributed to "SOLO", capitalized the same as Gary's handle. &#x20;
 
 #### Additional Articles for Further Reading
 
