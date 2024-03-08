@@ -20,7 +20,8 @@ _Table of Contents:_  \
 
 > _"Quentin told us he's...browsed through secret government files on UFOs, and gone snooping in our nation's military computers."_ - Narrator (2:15) &#x20;
 
-* **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13. (Use _`CTRL+F`_ to find _"_`Text File`_"_ for the relevant part.)  \
+* **1993** [Project Green Cheese / Project ALF-1](http://phrack.org/issues/42/13.html#article) published in _Phrack Magazine_, Issue 42, File 13.\
+  (Use _`CTRL+F`_ to find _"_`Text File`_"_ for the relevant part.)  \
   The [e-zine](https://en.wikipedia.org/wiki/Online\_magazine) prints UFO-related search terms and IP addresses of US secret networks, information supplied by "Quentin" and possibly two or more accomplices. &#x20;
 * [Here's a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL\_5/CUD513D.TXT) that predates the _Phrack_ article. ([Archived commentary](https://web.archive.org/web/20010303221709/http://paul.rutgers.edu/\~mcgrew/ufo/hackers)) &#x20;
 * [**1994** Columns in _UFO Magazine_ by T. Scott Crain](quentin/1994-ufo-magazines.md), who wrote letters to NBC.
@@ -31,6 +32,11 @@ _Table of Contents:_  \
 {% file src=".gitbook/assets/Quentin_UFO_Text_File_Sourcing.pdf" %}
 **2019** Report by Giuliano Marinkovic tracking Quentin's text file.
 {% endfile %}
+
+I contacted Chris "Erik Bloodaxe" Goggans, the editor of _Phrack_. Here are two things he said:
+
+* [_"I know that Quentin had at least two people in the hacker scene that he considered friends and was usually working with on whatever it was he was up to. Don't know much more about them."_](#user-content-fn-1)[^1]
+* _"I have no real way to track down authors of the submitted articles at this point, as I don't have the Phrack email archives from 1993."_
 
 Quentin's true identity remains unknown.
 
@@ -158,3 +164,5 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 * _1981+_ A trove of historical Usenet newsgroup postings can be found on [Google Groups](https://groups.google.com/forum/#!forumsearch/ufo) &#x20;
 * _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
 * Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
+
+[^1]: 

@@ -7,15 +7,15 @@
 * [🧢 "Quentin" Overview](quentin/quentin-overview.md)
 * [📰 1994 UFO Magazines](quentin/1994-ufo-magazines.md)
 
-## 🧑💼 Mathew Bevan
+## 🧑‍💼 Mathew Bevan
 
-* [👩💻 Bevan Overview](mathew-bevan/bevan-overview.md)
-* [⌨ Kuji's Webpage](https://www.kujimedia.com/)
+* [👩‍💻 Bevan Overview](mathew-bevan/bevan-overview.md)
+* [⌨️ Kuji's Webpage](https://www.kujimedia.com/)
 
-## 👨💼 Gary McKinnon
+## 👨‍💼 Gary McKinnon
 
-* [👨💻 McKinnon Overview](gary-mckinnon/mckinnon-overview.md)
-* [☄ 2007 UFO Crash Con](gary-mckinnon/2007-ufo-crash-con.md)
+* [👨‍💻 McKinnon Overview](gary-mckinnon/mckinnon-overview.md)
+* [☄️ 2007 UFO Crash Con](gary-mckinnon/2007-ufo-crash-con.md)
 * [🎤 2017 MUFON Symposium](gary-mckinnon/2017-mufon-symposium.md)
 
 ## 📕 Richard Thieme

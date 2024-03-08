@@ -24,6 +24,13 @@ description: An unknown hacker with the pseudonym "Quentin" was the first.
 **2019** Report by Giuliano Marinkovic tracking Quentin's text file.
 {% endfile %}
 
+I contacted Chris "Erik Bloodaxe" Goggans, the editor of _Phrack_. Here are two things he said:
+
+* [_"I know that Quentin had at least two people in the hacker scene that he considered friends and was usually working with on whatever it was he was up to. Don't know much more about them."_](#user-content-fn-1)[^1]
+* _"I have no real way to track down authors of the submitted articles at this point, as I don't have the Phrack email archives from 1993."_
+
 Quentin's true identity remains unknown.
 
 ![](../.gitbook/assets/quentin2.png)
+
+[^1]: 
