@@ -2,13 +2,13 @@
 description: Gary "SOLO" McKinnon's extradition case got the most publicity.
 ---
 
-# 👨💻 McKinnon Overview
+# 👨‍💻 McKinnon Overview
 
 ![](../.gitbook/assets/McKinnon.jpg)
 
 ## **Most Well-Known: Gary "SOLO" McKinnon**
 
-> _"The biggest military computer hack of all time."_ - US prosecutor
+> _"The biggest military computer hack of all time."_ - US prosecuting attorney Paul McNulty
 
 **2001-2002** [Gary "SOLO" McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seized his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
 

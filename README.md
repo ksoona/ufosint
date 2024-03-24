@@ -35,7 +35,7 @@ _Table of Contents:_  \
 
 I contacted Chris "Erik Bloodaxe" Goggans, the editor of _Phrack_. Here are two things he said:
 
-* [_"I know that Quentin had at least two people in the hacker scene that he considered friends and was usually working with on whatever it was he was up to. Don't know much more about them."_](#user-content-fn-1)[^1]
+* _"I know that Quentin had at least two people in the hacker scene that he considered friends and was usually working with on whatever it was he was up to. Don't know much more about them."_
 * _"I have no real way to track down authors of the submitted articles at this point, as I don't have the Phrack email archives from 1993."_
 
 Quentin's true identity remains unknown.
@@ -67,7 +67,7 @@ Bevan also says, &#x20;
 
 ## **Most Well-Known: Gary McKinnon**
 
-> _"The biggest military computer hack of all time."_ - US prosecutor
+> _"The biggest military computer hack of all time."_ - US prosecuting attorney Paul McNulty
 
 **2001-2002** [Gary "SOLO" McKinnon](https://en.wikipedia.org/wiki/Gary\_McKinnon), the most well-known UFO hacker, breaks into US Army, US Navy, US Air Force, Department of Defense, and NASA computers by targeting systems with administrator passwords of "Administrator," "password," or blank. Gary accomplishes this using a Perl program to mass scan a /16 IP space and probe the NetBIOS protocol on port 139. He uses a 56K dial-up modem. On some systems, he installs RemotelyAnywhere for remote desktop. He uses Landsearch software to search through all files on all computers across a domain. On a Navy system, he sees spreadsheet tabs with titles such as "non-terrestrial officers" and "fleet-to-fleet transfers", with names of ships not known to be in the US Navy. Also, following Dr. Steven Greer's [Disclosure Project](https://www.youtube.com/watch?v=4DrcG7VGgQU) and specifically the testimony of [Donna Hare](https://www.youtube.com/watch?v=tEBLmWhx1K0), he targets Building 8 at NASA Johnson Space Center where UFOs are reportedly being airbrushed out of satellite photography before the photos are released to the public. He makes it onto a system and sees a 'raw' photo of a smooth [cylindrical craft with domes](https://imgur.com/3ATHPFP) that has no seams or rivets. However, he miscalculates the time zones and is disconnected by a local computer user before he can take a screenshot. Months later, he is arrested by the UK's National Hi-Tech Crimes Unit (who seized his computer) and he is put under an extradition order from the US. It will be a 10-year legal battle before his extradition is finally blocked by the UK over human rights and UK charges are eventually dropped. Gary still faces [US charges](https://web.archive.org/web/20060516102803/http://cryptome.org/ips-bared.htm).
 
@@ -164,5 +164,3 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 * _1981+_ A trove of historical Usenet newsgroup postings can be found on [Google Groups](https://groups.google.com/forum/#!forumsearch/ufo) &#x20;
 * _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
 * Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
-
-[^1]: 
