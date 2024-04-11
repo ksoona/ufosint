@@ -52,7 +52,7 @@ Install <–computer COMPUTER> <–path PATH> [-port PORT] [-minimal] [-license 
 Last, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
 I used these same hacking techniques at around the same time. As seen, the idea is attributed to "SOLO", capitalized the same as Gary's handle. &#x20;
 
-#### Additional Articles for Further Reading
+#### Additional Links for Further Information on Gary
 
 * **2012** [Gary was unlucky](https://www.independent.co.uk/voices/comment/gary-was-unlucky-he-s-not-even-a-good-hacker-8215802.html) by Peter Warren (how Gary was caught) &#x20;
 * **2012** BBC [Profile: Gary McKinnon](https://www.bbc.com/news/uk-19946902) (why Gary's extradition was blocked) &#x20;
@@ -60,5 +60,6 @@ I used these same hacking techniques at around the same time. As seen, the idea 
 * **2016** [UFO Hacker Gary McKinnon Story](https://web.archive.org/web/20220128033810/http://fourthkind.com/ufo-hacker-gary-mckinnon-story/) by Joel Hasse (/u/EarthmanJoel's fantastic article) &#x20;
 * **2016** [Hackers Expose Secret Space Missions and Government UFO Research](https://www.gaia.com/article/hackers-expose-secret-space-missions-and-government-ufo-research) by Gaia Staff (factual errors) &#x20;
 * **2020** [UFO Hackers Pay the Price](https://medium.com/on-the-trail-of-the-saucers/from-kuji-to-solo-how-one-mans-curiosity-paved-the-way-for-a-new-generation-of-ufo-hackers-a94344452083) by Ryan Sprague (almost entirely a repost of his 2014 article) &#x20;
+* **2024** [The Man Who Hacked the U.S. Government](https://www.youtube.com/watch?v=ND0zQX1rGdg) by Newsthink (YouTube video) &#x20;
 
 <figure><img src="../.gitbook/assets/Gary_McKinnon_Drawing.jpg" alt=""><figcaption><p>Gary McKinnon's drawing of what he witnessed on a NASA computer in Johnson Space Center building 8.</p></figcaption></figure>
