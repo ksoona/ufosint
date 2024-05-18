@@ -14,7 +14,11 @@ description: This page is under construction, consider it in beta testing.
 * Multimedium Travel
 * Positive Lift
 
-## Research
+### [37 **Defense Intelligence Reference Documents (DIRDs)**](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)
+
+(Toward the bottom of the linked page.)
+
+## Additional Research
 
 [Otis Carr, Ralph Ring and OTC-X1](https://www.youtube.com/watch?v=AXFXBg4jQ9Y) (1955) [Wiring](https://www.youtube.com/watch?v=trgY5HoC9QA)\
 [Guidelines to Antigravity](http://u2.lege.net/culture.zapto.org\_82\_20080124/antigravidity/Robert%20L.Forward%20-%20Guidelines%20to%20Antigravity.pdf) by [Dr. Robert L. Forward](https://en.wikipedia.org/wiki/Robert\_L.\_Forward#Non-fiction) (1962)\
