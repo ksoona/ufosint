@@ -12,6 +12,7 @@ description: UFO conversation goes back to the early Internet.
 * _1986-1995_ [ParaNet-MICAP BBS UFO File Archives](https://web.archive.org/web/20080513234238/http://www.paranetinfo.com:80/ufofiles.html) (Multi-national Investigations Cooperative on Aerial Phenomena) &#x20;
 * _1987-2001_ Additional zines and texts: [HackCanada archive via Internet Archive](https://web.archive.org/web/20181110090601/www.hackcanada.com/blackcrawl/ufo.html)
 * _1994_ alt.alien.visitors Usenet newsgroup FAQ (7 parts): [UFOs-and-Aliens FAQ](http://www.faqs.org/faqs/ufos-and-aliens/) &#x20;
+* _1995_ ["Project UFO" - 6 Amiga Disk Images](https://discmaster.textfiles.com/browse/9906) (Plaintext Diskmag)
 * _1990's_ UFO BBS Files archive: [Sacred-Texts.com repository of UFO BBS Files](https://www.sacred-texts.com/ufo/ufobbs.htm)
 * _1981+_ A trove of historical Usenet newsgroup postings can be found on [Google Groups](https://groups.google.com/forum/#!forumsearch/ufo) &#x20;
 * _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
