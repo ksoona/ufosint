@@ -16,3 +16,5 @@ description: UFO conversation goes back to the early Internet.
 * _1981+_ A trove of historical Usenet newsgroup postings can be found on [Google Groups](https://groups.google.com/forum/#!forumsearch/ufo) &#x20;
 * _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
 * Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
+
+<figure><img src="../.gitbook/assets/UFOBBS_printout.jpg" alt="" width="375"><figcaption><p>UFONET BBS printout from Grant Cameron's archives</p></figcaption></figure>
