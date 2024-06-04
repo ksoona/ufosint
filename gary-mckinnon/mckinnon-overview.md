@@ -62,4 +62,6 @@ I used these same hacking techniques at around the same time. As seen, the idea 
 * **2020** [UFO Hackers Pay the Price](https://medium.com/on-the-trail-of-the-saucers/from-kuji-to-solo-how-one-mans-curiosity-paved-the-way-for-a-new-generation-of-ufo-hackers-a94344452083) by Ryan Sprague (almost entirely a repost of his 2014 article) &#x20;
 * **2024** [The Man Who Hacked the U.S. Government](https://www.youtube.com/watch?v=ND0zQX1rGdg) by Newsthink (YouTube video) &#x20;
 
+Reportedy, a TV movie based on Gary McKinnon is in the works. ([Deadline](https://deadline.com/2023/11/bbc-gary-mckinnon-computer-hacker-drama-1235643829/)) &#x20;
+
 <figure><img src="../.gitbook/assets/Gary_McKinnon_Drawing.jpg" alt=""><figcaption><p>Gary McKinnon's drawing of what he witnessed on a NASA computer in Johnson Space Center building 8.</p></figcaption></figure>
