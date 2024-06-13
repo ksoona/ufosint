@@ -76,7 +76,7 @@ Bevan also says, &#x20;
 * **2006** interview by _Project Camelot_: [YouTube video](https://www.youtube.com/watch?v=t8MnfampJKU), [higher resolution video](https://odysee.com/project-camelot-gary-mckinnon-re-release:4d2a29deb3f304678557b927cad80fc5d63f5f52) &#x20;
 * **2006** Interview for _WIRED Magazine_: [article](https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/) &#x20;
 * **2006** Interview for _.net Magazine_: [article](https://medium.com/the-lindberg-interviews/interview-with-ufo-hacker-gary-mckinnon-5aa5d366828b)
-* **2007** "Solo" interviewed on _Hacker's Voice Radio_ podcast:[ mp3 audio](http://www.hackervoice.co.uk/show/archive/2007/hackervoiceradio19mar2007.MP3) &#x20;
+* **2007** "SOLO" interviewed on _Hacker's Voice Radio_ podcast:[ mp3 audio](http://www.hackervoice.co.uk/show/archive/2007/hackervoiceradio19mar2007.MP3) &#x20;
 * **2007** talk on Gary at UFO Crash Con by Matthew Williams: [YouTube video](https://www.youtube.com/watch?v=Gf5uek-vSQE) &#x20;
   * Proceedings from this conference include an interview with Gary [here](gary-mckinnon/2007-ufo-crash-con.md). &#x20;
 * **2009** "Gary McKinnon: Britain's Hacking Hero?": [article](https://www.alphr.com/features/252972/gary-mckinnon-britains-hacking-hero) &#x20;
