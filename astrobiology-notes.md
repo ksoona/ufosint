@@ -13,5 +13,7 @@ Handwritten Notes
 #### University of Missouri St. Louis, Astrobiology Conference (2016)
 
 {% file src=".gitbook/assets/astrobio_notes_umsl2016.pdf" %}
-Handwritten Notes
+Conference Program and Handwritten Notes
 {% endfile %}
+
+The UMSL conference presentation slides are available [by clicking on the speaker names here](https://www.umsl.edu/\~physics/astrobiology.html).
