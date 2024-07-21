@@ -4,9 +4,9 @@ description: >-
   Conference.
 ---
 
-# ☄ 2007 UFO Crash Con
+# ☄️ 2007 UFO Crash Con
 
-_Video of the accompanying lecture whose content is different from the below proceedings is available on_ [_Matthew's YouTube_](https://www.youtube.com/watch?v=Gf5uek-vSQE)_. Interview ©2007 Matthew Williams. Reprinted with permission._
+_Video of the accompanying lecture whose content is different from the below proceedings is available on_ [_Matthew's YouTube_](https://www.youtube.com/watch?v=Gf5uek-vSQE)_. Interview ©2007 Matthew Williams. Reprinted with permission. Source._
 
 ### A Close Encounter With Whistleblower Gary McKinnon
 
