@@ -28,6 +28,7 @@ description: This page is under construction, consider it in beta testing.
 &#x20;    Page 349 of the PDF is labeled "Gravity and Anti-gravity"\
 [How to Build a Flying Saucer](https://archive.org/details/how-to-build-a-flying-saucer-tbpawlicki) by T. B. Pawlicki (1981)\
 [Negative Matter Propulsion](https://ayuba.fr/pdf/forward1990.pdf) by Dr. Robert L. Forward (1990)\
+[UFOs and Anti-Gravity: Piece for a Jig-Saw](http://www.exopoliticshongkong.com/uploads/UFOs-AntiGravity-Piece-for-a-Jig-Saw-1997\_L\_G\_Cramp.pdf) by Leonard G. Cramp (1997)\
 [Temple Of The Screaming Electron page "Gravity / Anty-gravity"](https://totseans.com/totse/en/fringe/gravity\_anti\_gravity/index.html) (1997-2006)\
 [**StarDrive Engineering**](http://u2.lege.net/cetinbal/Stardrive2.htm) by [Mark R. Tomion](https://www.worldcat.org/title/stardrive-engineering/oclc/54356932) (2001)\
 &#x20;    **Full PDF:** [Hi-Res Color and **Black & White w/ OCR**](https://archive.org/details/stardrive\_engineering) **<- please mirror (**[**Mega**](https://mega.nz/folder/wCklVSzC#BVfaU87k4f8wzJA79aJuJQ)**)**\
