@@ -165,6 +165,11 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 
 * Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper &#x20;
 
+### Glen Campbell DEFCON Talk
+
+At DEFCON 3 in **1995**, the late UFO researcher Glen Campbell gave a talk on Area 51:\
+[DEF CON 3 - Glen Campbell - QA of Govermental Activities and Surrounding Area-51](https://infocon.org/cons/DEF%20CON/DEF%20CON%203/DEF%20CON%203%20audio/DEF%20CON%203%20-%20Glen%20Campbell%20-%20QA%20of%20Govermental%20Activities%20and%20Surrounding%20Area-51.m4b)
+
 ## **Historically Relevant: BBSes and Other Archives**
 
 * _1976-1996_ UFO discussion takes place on BBSes (Bulletin Board Systems):\
