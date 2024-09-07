@@ -11,6 +11,11 @@ description: Richard "neuralcowboy" Thieme has spoken to hackers on UFOs.
 [Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**: &#x20;
 
 * **2002** MUFON Symposium - Are There UFOs on Mars?: " [YouTube video](https://youtu.be/uwR4iAlMA0s)
+
+{% file src="../.gitbook/assets/Thieme_MUFON_Symposium_Proceedings_2002.pdf" %}
+Richard Thieme's conference proceedings from the **2002** MUFON Symposium
+{% endfile %}
+
 * **2006** DEFCON 14 - ([clip from talk](https://v.redd.it/fix3oedam2b91) - mentions crash retrievals and counterintelligence)
 * **2007** DEFCON 15 - Hacking UFOlogy: Thirty Years in the Wilderness of Mirrors: [PDF whitepaper](https://defcon.org/images/defcon-15/dc15-presentations/Thieme/Whitepaper/dc-15-thieme-WP.pdf), [M4B audio](https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20audio/DEF%20CON%2015%20Hacking%20Conference%20Presentation%20By%20Richard%20Theime%20-%20Hacking%20UFOlogy%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20video/DEF%20CON%2015%20-%20Richard%20Theime%20-%20Hacking%20UFOlogy%20-%20Video.mp4), [Internet Archive](https://archive.org/details/youtube-UaYFkKYzE7Q), [YouTube video](https://www.youtube.com/watch?v=XZkol9q6i5Q) &#x20;
 * **2009** DEFCON 17 - Hacking UFOlogy 102: The Implications of UFOs for Life, the Universe, and Everything: [M4B audio](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20audio/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Audio.m4b), [MP4 video](https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20video/DEF%20CON%2017%20-%20Richard%20Thieme%20-%20Hacking%20UFOlogy%20102%20The%20Implications%20of%20UFOs%20for%20Life%20the%20Universe%20and%20Everything%20-%20Video.mp4), [YouTube video](https://www.youtube.com/watch?v=dHPAa-Ocq9s) &#x20;
@@ -20,6 +25,11 @@ description: Richard "neuralcowboy" Thieme has spoken to hackers on UFOs.
   * Thieme also was interviewed by WBSD radio about the book: [Stream](https://thiemeworks.com/podcasts/wbsd-radio-interview-on-ufo-and-government/), [MP3 audio](https://thiemeworks.com/uploads/richard-thieme-wbsd-radio-interview.mp3) &#x20;
 * **2014** THOTCON 0x5 - [UFOs and Government: a Case Study in Disinformation, Deception, and Perception Management](https://infocondb.org/con/thotcon/thotcon-0x5/ufos-and-government-a-case-study-in-disinformation-deception-and-perception-management) (No recording)
 * **2016** MUFON Symposium - Against the Wind: Why People Can't Think Seriously About UFOs: [Speaker Profile Video](https://www.youtube.com/watch?v=yVyuCAOSIMM), [MUFON TV](https://mufontelevision.com/mufon-2016-symposium/?vimeography\_gallery=18\&vimeography\_video=195010507), [Vimeo video](https://player.vimeo.com/video/195010507) &#x20;
+
+{% file src="../.gitbook/assets/Thieme_MUFON_Symposium_Proceedings_2016.pdf" %}
+Richard Thieme's conference proceedings from the **2016** MUFON Symposium
+{% endfile %}
+
 * **2016** Open Minds UFO Radio - UFOs, Technology and the Future (Alejandro Rojas has Thieme as a guest): [Podcast](https://rojasreport.podbean.com/e/richard-thieme-ufos-technology-and-the-future/), [MP3 audio](https://mcdn.podbean.com/mf/download/9hnh1t/ufo\_radio\_2016\_12\_14\_richard-thieme-ufos-technology-and-the-future.mp3)
 * **2021** DEFCON 29 - UFOs: Misinformation, Disinformation, and the Basic Truth: [PDF slides](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Richard%20Thieme%20AKA%20neuralcowbo%20-%20UFOs%20-%20%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.pdf), [MP4 video](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.mp4), [SRT subtitles](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.srt), [YouTube video](https://www.youtube.com/watch?v=mExktWB0qz4) &#x20;
 * **2022** DEFCON 30 - UFOs, Alien Life, and the Least Untruthful Things I Can Say: [Abstract](https://forum.defcon.org/node/242199), [PDF slides](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Richard%20Thieme%20-%20UFOs%20Alien%20Life%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.pdf), [MP4 video](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.mp4), [SRT subtitles](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.srt), [YouTube video](https://www.youtube.com/watch?v=VWu14-EfucI) &#x20;
@@ -37,3 +47,8 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 > We chase them, and we can't catch them. &#x20;
 
 * Source: **2014** ["Out of the closet on UFOs"](https://archive.jsonline.com/news/opinion/out-of-the-closet-on-ufos-b99203753z1-245623181.html/) by Richard Thieme - _Milwaukee Journal Sentinel_ newspaper &#x20;
+
+### Glen Campbell DEFCON Talk
+
+At DEFCON 3 in **1995**, the late UFO researcher Glen Campbell gave a talk on Area 51:\
+[DEF CON 3 - Glen Campbell - QA of Govermental Activities and Surrounding Area-51](https://infocon.org/cons/DEF%20CON/DEF%20CON%203/DEF%20CON%203%20audio/DEF%20CON%203%20-%20Glen%20Campbell%20-%20QA%20of%20Govermental%20Activities%20and%20Surrounding%20Area-51.m4b)
