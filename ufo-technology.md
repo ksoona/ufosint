@@ -28,8 +28,11 @@ description: This page is under construction, consider it in beta testing.
 &#x20;    Page 349 of the PDF is labeled "Gravity and Anti-gravity"\
 [How to Build a Flying Saucer](https://archive.org/details/how-to-build-a-flying-saucer-tbpawlicki) by T. B. Pawlicki (1981)\
 [Negative Matter Propulsion](https://ayuba.fr/pdf/forward1990.pdf) by Dr. Robert L. Forward (1990)\
+[**THE ANTIGRAVITY "UNDERGROUND"**](http://amasci.com/freenrg/antigrav.html) by Bill Beaty (1990s-current)\
 [UFOs and Anti-Gravity: Piece for a Jig-Saw](http://www.exopoliticshongkong.com/uploads/UFOs-AntiGravity-Piece-for-a-Jig-Saw-1997\_L\_G\_Cramp.pdf) by Leonard G. Cramp (1997)\
 [Temple Of The Screaming Electron page "Gravity / Anty-gravity"](https://totseans.com/totse/en/fringe/gravity\_anti\_gravity/index.html) (1997-2006)\
+[**Physics of UFO Gravity Manipulation**](http://www.zamandayolculuk.com/html-2/ufogravity.htm) - by Paul E Potter (1998)\
+&#x20;    Based on the experience of Betty Andreasson (1967)\
 [**StarDrive Engineering**](http://u2.lege.net/cetinbal/Stardrive2.htm) by [Mark R. Tomion](https://www.worldcat.org/title/stardrive-engineering/oclc/54356932) (2001)\
 &#x20;    **Full PDF:** [Hi-Res Color and **Black & White w/ OCR**](https://archive.org/details/stardrive\_engineering) **<- please mirror (**[**Mega**](https://mega.nz/folder/wCklVSzC#BVfaU87k4f8wzJA79aJuJQ)**)**\
 &#x20;    [Archived Site](https://web.archive.org/web/20071013103015/https://www.stardrivedevice.com/)\
@@ -37,7 +40,8 @@ description: This page is under construction, consider it in beta testing.
 &#x20;    [Patent](https://patents.google.com/patent/US6404089/pt-PT)\
 [The UFO Technology Hackers Manual](https://ebin.pub/the-ufo-technology-hackers-manual.html) by Michael McDonnough (2006)\
 [Frontiers of Propulsion Science](https://www.amazon.com/dp/1563479567) by M. Mills and Dr. Eric W. Davis (2009)\
-The late Amy Eskridge presentetion at HAL5: [Abstract](http://hal5.org/program-2018-12.shtml), [Slides](http://hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf), [Video](https://youtu.be/FmhFKiq6FG8?t=166) (2018)
+The late Amy Eskridge presentetion at HAL5: [Abstract](http://hal5.org/program-2018-12.shtml), [Slides](http://hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf), [Video](https://youtu.be/FmhFKiq6FG8?t=166) (2018)\
+[A Simplified Guide To Rocket Science and Beyond](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22338391.v1) section VII (2023)
 
 ## Transparency Frameworks & Models
 

@@ -30,6 +30,6 @@
 ***
 
 * [🌌 Astrobiology Notes](astrobiology-notes.md)
-* [🪐 Habitable Exoplanets](https://phl.upr.edu/projects/habitable-exoplanets-catalog)
+* [🪐 Habitable Worlds](https://phl.upr.edu/hwc)
 * [🛸 Beta: UFO Technology](ufo-technology.md)
 * [🐘 Philosophy](philosophy.md)
