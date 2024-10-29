@@ -29,6 +29,7 @@ description: This page is under construction, consider it in beta testing.
 [How to Build a Flying Saucer](https://archive.org/details/how-to-build-a-flying-saucer-tbpawlicki) by T. B. Pawlicki (1981)\
 [Negative Matter Propulsion](https://ayuba.fr/pdf/forward1990.pdf) by Dr. Robert L. Forward (1990)\
 [**THE ANTIGRAVITY "UNDERGROUND"**](http://amasci.com/freenrg/antigrav.html) by Bill Beaty (1990s-current)\
+&#x20;    Contains files from [KeelyNet](https://web.archive.org/web/20191019002820/http://www.keelynet.com/gravity.htm) (1996-1998) and others\
 [UFOs and Anti-Gravity: Piece for a Jig-Saw](http://www.exopoliticshongkong.com/uploads/UFOs-AntiGravity-Piece-for-a-Jig-Saw-1997\_L\_G\_Cramp.pdf) by Leonard G. Cramp (1997)\
 [Temple Of The Screaming Electron page "Gravity / Anty-gravity"](https://totseans.com/totse/en/fringe/gravity\_anti\_gravity/index.html) (1997-2006)\
 [**Physics of UFO Gravity Manipulation**](http://www.zamandayolculuk.com/html-2/ufogravity.htm) - by Paul E Potter (1998)\
