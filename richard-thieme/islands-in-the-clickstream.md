@@ -7,11 +7,11 @@ description: The Dark Side of the Moon and Beyond
 The following are excerpts from **Islands in the Clickstream** by Richard Thieme. No longer in physical print. Taken from Chapter 9, **The Dark Side of the Moon and Beyond**. _Republished with permission._
 
 _Table of Contents:_\
-[**UFOs and the Internet**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#ufos-and-the-internet) **1997**\
-[**Delusions of Grandeur**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#delusions-of-grandeur) **1997**\
-[**Interpretation**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#interpretation) **2001**\
-[**The Silence of the Lambs**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#the-silence-of-the-lambs) **2001**\
-[**On the Dark Side of the Moon**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#on-the-dark-side-of-the-moon) **2001**
+[**UFOs and the Internet**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#ufos-and-the-internet) 1997\
+[**Delusions of Grandeur**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#delusions-of-grandeur) 1997\
+[**Interpretation**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#interpretation) 2001\
+[**The Silence of the Lambs**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#the-silence-of-the-lambs) 2001\
+[**On the Dark Side of the Moon**](https://www.ufohackers.org/hackers/richard-thieme/islands-in-the-clickstream#on-the-dark-side-of-the-moon) 2001
 
 
 
