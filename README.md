@@ -43,19 +43,26 @@ Quentin's true identity remains unknown.
 ## Mid-'90s: Mathew Bevan
 
 * **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew\_Bevan)\
-  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being [a group of 50 hackers who went missing](https://youtu.be/bHtItL-lNAE?si=OvFBQzGVDEpI8UA2\&t=327),) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO.
+  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being [a group of 50 hackers who went missing](https://youtu.be/bHtItL-lNAE?si=OvFBQzGVDEpI8UA2\&t=327),) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO. &#x20;
 * **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996\_hr/s960605b.htm). However, Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to provide evidence of military digital intrusion to a UK court.) &#x20;
-* **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released.
-* **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm)
-* [Periodicals](http://www.kujimedia.com/gallery/), [newspapers](https://www.kujimedia.com/tag/kuji/page/4/), and [the media](http://www.kujimedia.com/musings/) covered Bevan's case extensively, along with other  sources: &#x20;
-  * **1999** [U.S. info-warriors crap out in Crown Court](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). (Archive) &#x20;
-  * **2003** [Hacking U.S. Government Computers from Overseas](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm). (Archive) &#x20;
+* **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released. &#x20;
+* **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret\_projects/project159.htm) &#x20;
 
-> _“Nearly started a third world war.”_ - Jim Christy, AFOSI
+[Periodicals](http://www.kujimedia.com/gallery/), [newspapers](https://www.kujimedia.com/tag/kuji/page/4/), and [the media](http://www.kujimedia.com/musings/) covered Bevan's case extensively, along with other  sources. &#x20;
 
-> _“Possibly the single biggest threat to world peace since Adolf Hitler.” -_ a Pentagon source
+* Interview by David Glover: [YouTube video](https://www.youtube.com/watch?v=bHtItL-lNAE) &#x20;
+  * BBC #1: [YouTube video](https://www.youtube.com/watch?v=SUBHs5YI27s) &#x20;
+  * BBC #2: [YouTube video](https://www.youtube.com/watch?v=ky3dEHS5VAs) &#x20;
+  * HTV: [YouTube video](https://www.youtube.com/watch?v=FpsjKbbI880) &#x20;
+  * Wales Tonight: [YouTube video](https://www.youtube.com/watch?v=sbDnxd6BzEc) &#x20;
+* **1999** [U.S. info-warriors crap out in Crown Court](http://web.archive.org/web/19990508120956/http://www.soci.niu.edu/\~crypt/other/afosi.htm). (Archive) &#x20;
+* **2003** [Hacking U.S. Government Computers from Overseas](http://web.archive.org/web/20030306080356/http://www.wasc.noaa.gov/wrso/security\_guide/hacking.htm). (Archive) &#x20;
 
-Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this over a USR 14.4K dial-up modem.
+> _“Nearly started a third world war.”_ - Jim Christy, AFOSI &#x20;
+
+> _“Possibly the single biggest threat to world peace since Adolf Hitler.” -_ a Pentagon source &#x20;
+
+Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this over a USR 14.4K dial-up modem. &#x20;
 
 Of note is that he got into a Wright-Patterson Air Force Base system that took no password and [saw plans for an antigravity drive](https://web.archive.org/web/20010306071223/http://www.artgomperz.com/a1998/jan/wpafb.html): &#x20;
 
