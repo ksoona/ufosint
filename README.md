@@ -160,7 +160,7 @@ Richard Thieme's conference proceedings from the **2016** MUFON Symposium
 
 Thieme has given talks on other topics as well, [see a more complete index here](https://infocondb.org/presenter/richard-thieme-neuralcowboy). &#x20;
 
-Thieme also wrote a monthly column which was compiled in his book [_Islands in the Clickstream_](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original printing, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2003**, many of which involve the UFO topic, e.g. "UFOs and the Internet" from July 8, 1997. &#x20;
+Thieme also wrote a monthly column which was compiled in his book [_Islands in the Clickstream_](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original version, no longer in print, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2001** regarding UFOs. With Thieme's permission, I have republished five of these columns [here](richard-thieme/islands-in-the-clickstream.md). &#x20;
 
 * **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/) &#x20;
 

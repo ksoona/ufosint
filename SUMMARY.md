@@ -21,6 +21,7 @@
 ## 📕 Richard Thieme
 
 * [📖 Thieme Overview](richard-thieme/thieme-overview.md)
+* [🌑 Islands in the Clickstream](richard-thieme/islands-in-the-clickstream.md)
 
 ## 📚 Other
 
