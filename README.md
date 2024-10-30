@@ -10,7 +10,7 @@ _Table of Contents:_  \
 [**1992: "Quentin"**](./#earliest-quentin-on-dateline-nbc-and-in-phrack)  \
 [**1996: Mathew "Kuji" Bevan**](./#mid-90s-mathew-bevan)  \
 [**2002: Gary "SOLO" McKinnon**](./#most-well-known-gary-mckinnon)  \
-[Further Information](./#additional-articles-for-further-reading)  \
+[Further Information](https://www.ufohackers.org/hackers#additional-links-for-further-information-on-gary)  \
 [**2007: Richard "neuralcowboy" Thieme**](./#author-professional-speaker-richard-thieme)  \
 [BBSes & Other Archives](./#historically-relevant-bbses-and-other-archives) &#x20;
 

@@ -42,7 +42,8 @@ description: This page is under construction, consider it in beta testing.
 [The UFO Technology Hackers Manual](https://ebin.pub/the-ufo-technology-hackers-manual.html) by Michael McDonnough (2006)\
 [Frontiers of Propulsion Science](https://www.amazon.com/dp/1563479567) by M. Mills and Dr. Eric W. Davis (2009)\
 The late Amy Eskridge presentetion at HAL5: [Abstract](http://hal5.org/program-2018-12.shtml), [Slides](http://hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf), [Video](https://youtu.be/FmhFKiq6FG8?t=166) (2018)\
-[A Simplified Guide To Rocket Science and Beyond](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22338391.v1) section VII (2023)
+[A Simplified Guide To Rocket Science and Beyond](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22338391.v1) section VII (2023)\
+[A Conceptual View of a UAP Reverse Engineering Program](https://condorman6.substack.com/p/a-conceptual-view-of-a-uap-reverse) (2023)
 
 ## Transparency Frameworks & Models
 
