@@ -164,7 +164,7 @@ Thieme also wrote a monthly column which was compiled in his book [_Islands in t
 
 * **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/) &#x20;
 
-Thieme's **2023** book [_Mobius: Out of Time_](https://thiemeworks.com/words/books/mobius-out-of-time/) covers "the deft management of UFO phenomena and research in the intelligence community," among other topics. &#x20;
+Thieme's **2023** fiction book [_Mobius: Out of Time_](https://thiemeworks.com/words/books/mobius-out-of-time/) covers "the deft management of UFO phenomena and research in the intelligence community," among other topics. &#x20;
 
 While an Episcopal priest, Thieme reports a fighter pilot confided in him regarding UFOs, confirming that in their fastest jets, &#x20;
 
