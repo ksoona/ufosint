@@ -1,5 +1,5 @@
 ---
-description: UFO Hactivists defaced the Argentina Air Force website in 2011
+description: UFO Hactivists defaced the Argentina Air Force website in 2011.
 ---
 
 # 🇦🇷 Argentina Hacktivism
