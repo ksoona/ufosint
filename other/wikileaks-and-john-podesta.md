@@ -4,9 +4,9 @@ description: >-
   Disclosure.
 ---
 
-# ⏳ WikiLeaks
+# ⏳ WikiLeaks & John Podesta
 
-In 2016 the US Democratic National Committee (DNC) was targeted by Russian hackers and the emails of Clinton Campaign Chair John Podesta were posted on WikiLeaks. Clinton  [John Podesta](https://en.wikipedia.org/wiki/John\_Podesta)'s personal Gmail account was compromised via a spear-phishing attack.
+In March 2016 the US Democratic National Committee (DNC) was targeted by Russian hackers. Clinton Campaign Chair [John Podesta](https://en.wikipedia.org/wiki/John\_Podesta)'s personal Gmail account was compromised via a spear-phishing attack. Those emails pere posted on WikiLeaks in October of that year.
 
 The hacking of the DNC has been linked to Russian Intelligence. Two groups of Russian hackers, commonly referred to as "Cozy Bear" (APT29) and "Fancy Bear" (APT28), were responsible for the breaches. These groups are associated wyth Russian intelligence agencies--the Federal Security Service (FSB) and the Main Intelligence Directorate (GRU).
 
@@ -65,8 +65,8 @@ All of these emails can be read on [WikiLeaks](https://wikileaks.org), and can b
 15.) https://web.archive.org/web/20161110024438/https://wikileaks.org/podesta-emails/emailid/6983\
 16.) https://web.archive.org/web/20161115102947/https://wikileaks.org/podesta-emails/emailid/1802
 
-Tom DeLonge emails, chronological order:\
-https://wikileaks.org/podesta-emails/?q=tom+delonge\&mfrom=\&mto=\&title=\&notitle=\&date\_from=\&date\_to=\&nofrom=\&noto=\&count=50\&sort=1#searchresult\
+### [Tom DeLonge emails](https://wikileaks.org/podesta-emails/?q=tom+delonge\&mfrom=\&mto=\&title=\&notitle=\&date\_from=\&date\_to=\&nofrom=\&noto=\&count=50\&sort=1#searchresult), chronological order:
+
 1.) https://web.archive.org/web/20200920212244/https://wikileaks.org/podesta-emails/emailid/49167\
 2.) https://web.archive.org/web/20201001064314/https://wikileaks.org/podesta-emails/emailid/21962\
 3.) https://web.archive.org/web/20200926065407/https://wikileaks.org/podesta-emails/emailid/37930\
@@ -88,12 +88,13 @@ https://wikileaks.org/podesta-emails/?q=tom+delonge\&mfrom=\&mto=\&title=\&notit
 19.) https://web.archive.org/web/20161107131508/https://wikileaks.org/podesta-emails/emailid/11641\
 20.) https://web.archive.org/web/20201113123855/https://wikileaks.org/podesta-emails/emailid/57684
 
-Other emails:\
-Sean Stone\
+### Other emails:
+
+**Sean Stone**\
 https://web.archive.org/web/20190826212050/https://wikileaks.org/podesta-emails/emailid/27519\
-John Ilias\
+**John Ilias**\
 https://web.archive.org/web/20170627070556/https://wikileaks.org/podesta-emails/emailid/50695\
-Horst Leskau\
+**Horst Leskau**\
 https://web.archive.org/web/20161114233036/https://wikileaks.org/podesta-emails/emailid/51798\
-Bob Fish\
+**Bob Fish**\
 https://web.archive.org/web/20161104021717/https://wikileaks.org/podesta-emails/emailid/31721
