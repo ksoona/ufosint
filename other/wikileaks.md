@@ -6,7 +6,7 @@ description: >-
 
 # ⏳ WikiLeaks
 
-In March 2016 the US Democratic National Committee (DNC) was targeted by Russian hackers. Clinton Campaign Chair [John Podesta](https://en.wikipedia.org/wiki/John\_Podesta)'s personal Gmail account was compromised via a spear-phishing attack. Those emails were posted on WikiLeaks in October of that year.
+In March 2016 the US Democratic National Committee (DNC) was targeted by Russian hackers. Clinton Campaign Chair John Podesta's personal Gmail account was compromised via a spear-phishing attack. Those emails were posted on WikiLeaks in October of that year.
 
 The hacking of the DNC has been linked to Russian Intelligence. Two groups of Russian hackers, commonly referred to as "Cozy Bear" (APT29) and "Fancy Bear" (APT28), were responsible for the breaches. These groups are associated wyth Russian intelligence agencies--the Federal Security Service (FSB) and the Main Intelligence Directorate (GRU).
 
@@ -22,7 +22,7 @@ John Podesta speaks at the Disclosure Project at the National Press Club in 2001
 
 Podesta's leaked emails contain a few threads related to UFO disclosure, in particular interactions with the late astronaut Dr. Edgar Mitchell and Blink-182 frontman Tom DeLonge.
 
-## [Dr. Edgar Mitchell](https://en.wikipedia.org/wiki/Edgar\_Mitchell)
+## Dr. Edgar Mitchell
 
 In a series of emails spanning 2014–2015, Apollo 14 astronaut Dr. Edgar Mitchell persistently sought meetings with John Podesta to discuss extraterrestrial intelligence (ETI), space treaties, and peaceful space exploration, urging disclosure of government knowledge about ETI and emphasizing the need for collaboration with benevolent ETI to avoid potential conflict in space.
 
@@ -36,7 +36,7 @@ Before his death, emails sent on behalf of Dr. Edgar Mitchell were to set up a S
 Another attachment related to peace in space sent to John Podesta on behalf of Dr. Edgar Mitchell.
 {% endfile %}
 
-## [Tom Delonge](https://en.wikipedia.org/wiki/Tom\_DeLonge)
+## Tom Delonge
 
 In emails from 2015–2016, musician Tom DeLonge communicated with John Podesta to discuss his efforts to advance public understanding of UFO phenomena, sharing updates on his advisory team of military and scientific experts, highlighting the role of General William McCasland, and seeking Podesta's support for his disclosure-focused initiatives.
 
@@ -66,7 +66,7 @@ Podesta also corresponded with former defense contractor and program manager Bob
 
 ## Sources
 
-All of these emails can be read on [WikiLeaks](https://wikileaks.org), and can be found by searching, for example, "Edgar Mitchell," or "Tom Delonge." Internet Archive links to the most related emails can be found below.
+All of these emails can be read on [WikiLeaks](https://wikileaks.org/podesta-emails/), and can be found by searching, for example, "Edgar Mitchell," or "Tom Delonge." Internet Archive links to the most related emails can be found below.
 
 ### [Dr. Edgar Mitchell emails](https://wikileaks.org/podesta-emails/?q=edgar+mitchell\&mfrom=\&mto=\&title=\&notitle=\&date\_from=\&date\_to=\&nofrom=\&noto=\&count=50\&sort=1#searchresult), chronological order:
 
