@@ -38,19 +38,19 @@ Another attachment related to peace in space sent to John Podesta on behalf of D
 
 ## Tom Delonge
 
-In emails from 2015–2016, musician Tom DeLonge communicated with John Podesta to discuss his efforts to advance public understanding of UFO phenomena, sharing updates on his advisory team of military and scientific experts, highlighting the role of General William McCasland, and seeking Podesta's support for his disclosure-focused initiatives.
+In emails from 2015–2016, musician Tom DeLonge communicated with John Podesta to discuss his efforts to advance public understanding of UFO phenomena, sharing updates on his advisory team of military and scientific experts, highlighting the role of General Neil McCasland, and seeking Podesta's support for his disclosure-focused initiatives.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image1.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image1.jpeg" alt=""><figcaption><p>Sekret Machines promotial image</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image2.jpeg" alt=""><figcaption><p>Promotional images sent to Podesta.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image2.jpeg" alt=""><figcaption><p>Promotional images sent by DeLonge</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image3.jpeg" alt=""><figcaption><p>More promotional images sent to Podesta</p></figcaption></figure>
 
 </div>
 
@@ -117,3 +117,7 @@ All of these emails can be read on [WikiLeaks](https://wikileaks.org/podesta-ema
 3.) 2015-03-06 16:17 [Leslie Kean book - DSP program](https://web.archive.org/web/20190410043240/https://wikileaks.org/podesta-emails/emailid/54211)\
 4.) 2015-03-07 18:28 [Re: Leslie Kean book - DSP program](https://web.archive.org/web/20161107072958/https://wikileaks.org/podesta-emails/emailid/36957)\
 5.) 2015-03-06 18:10 [Leslie Kean book - Blue Book](https://web.archive.org/web/20161104021717/https://wikileaks.org/podesta-emails/emailid/31721)
+
+## YouTube Video on DeLonge and Podesta:
+
+{% embed url="https://www.youtube.com/watch?v=53jDHVnqj0w" %}
