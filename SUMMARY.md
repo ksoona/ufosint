@@ -27,7 +27,7 @@
 
 * [📺 Archives & BBSes](other/archives-and-bbses.md)
 * [🇦🇷 Argentina Hacktivism](other/argentina-hacktivism.md)
-* [⏳ WikiLeaks & John Podesta](other/wikileaks-and-john-podesta.md)
+* [⏳ WikiLeaks](other/wikileaks.md)
 
 ***
 
