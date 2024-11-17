@@ -62,7 +62,7 @@ Teaser trailer for Tom Delonge's "Sekret Machines" documentary, featuring clips 
 
 ## Bob Fish
 
-Podesta also corresponded with former defense contractor and program manager Bob Fish. In March 2015, Bob Fish emailed John Podesta, suggesting that UFO researchers focus on analyzing hard scientific data, such as radar and thermal imaging, collected by U.S. government programs like the Air Force's Defense Support Program satellites, to better understand unidentified aerial phenomena.
+Podesta also corresponded with former defense contractor and program manager Bob Fish. In March 2015, Bob Fish emailed John Podesta, suggesting that UFO researchers focus on analyzing hard scientific data, such as radar and thermal imaging, collected by U.S. government programs like the Air Force's Defense Support Program satellites, to better understand unidentified aerial phenomena. Podesta responded. Read more [here](https://www.ufojoe.net/bob-fish/).
 
 ## Sources
 
