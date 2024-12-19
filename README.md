@@ -17,6 +17,7 @@ _Table of Contents:_  \
 ## **Earliest: "Quentin" on&#x20;**_**Dateline NBC**_**&#x20;and in&#x20;**_**Phrack**_
 
 * [**1992** _Dateline NBC_ segment](https://www.youtube.com/watch?v=N0QflNaPi7A\&t=77s)--"Quentin" is interviewed, with other hackers. [YouTube video](https://www.youtube.com/watch?v=N0QflNaPi7A),[ alternate](https://www.youtube.com/watch?v=5zjBrFSn3DE)
+  * This segment was also described in a [text file on ParaNet](https://web.archive.org/web/20071016063631/http://www.paranetinfo.com/UFO_Files/ufo/dateline.txt).
 
 > _"Quentin told us he's...browsed through secret government files on UFOs, and gone snooping in our nation's military computers."_ - Narrator (2:15) &#x20;
 
