@@ -101,6 +101,7 @@ Bevan also says, &#x20;
 * **2022** interview by Tim Ventura: [YouTube video](https://www.youtube.com/watch?v=_SOTGFj7BwI)
 * **2023** interview by 'M' Seeker of Truth: [YouTube video](https://www.youtube.com/watch?v=BT_cX6mpAms)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
+* **2024** Gary McKinnon is featured in James Fox's documentary film: [The Program](https://geni.us/TheProgram)
 
 #### Corroborating Technical Evidence
 
@@ -118,6 +119,26 @@ Install <–computer COMPUTER> <–path PATH> [-port PORT] [-minimal] [-license 
 
 Last, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
 I used these same hacking techniques at around the same time. As seen, the idea is attributed to "SOLO", capitalized the same as Gary's handle. &#x20;
+
+#### Overlap with IP Addresses from the [Quentin Text File](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL_5/CUD513D.TXT)
+
+Gary told me that he _"remembers the Quentin docs and other stuff"_ and that the IP addresses overlap with what he found. I looked into this, and found the following:
+
+```
+Army Fort Irwin, Barstow, CA
+	McKinnon Indictment: 134.66.12.64
+	Project Green Cheese: Network 134.66.x.x
+NASA Ames, Moffett Field Naval Base, CA
+	McKinnon Indictment: 192.150.x.x (192.150.38.45, 192.150.38.14, 192.150.38.51, 192.150.38.125)
+	Project Green Cheese: Network 192.52.195.1
+Pentagon, Arlington, VA
+	McKinnon Indictment: 141.116.x.x (141.116.58.63, 141.116.204.150, 141.116.230.88)
+	Project Green Cheese: Network 141.116.0.1, Random Suspected Nets: 141.x.x.x
+```
+
+#### Dispelling Rumors and Myths
+
+According to Gary, there is _"_[_No such programme!_](https://imgur.com/a/gary-mckinnon-says-no-solar-warden-uDvih5G)_"_ as Solar Warden. He has consistently said that he does not remember the names of the ships in the "fleet-to-fleet transfers" document, and when asked specifically about the names "USSS Hillenkoetter" and "USSS Curtis LeMay" [during the Q\&A](https://youtu.be/HdSSHTYRhuk?t=2450) after his 2017 MUFON Symposium talk, he reiterated that he does not remember those names. The earliest reference I can find to these is a [2010 article](https://openminds.tv/what-did-ufo-hacker-really-find/) by Alejandro Rojas, who attributes them to rumors.
 
 #### Additional Links for Further Information on Gary
 

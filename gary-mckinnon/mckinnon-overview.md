@@ -35,8 +35,9 @@ description: Gary "SOLO" McKinnon's extradition case got the most publicity.
 * **2022** interview by Tim Ventura: [YouTube video](https://www.youtube.com/watch?v=_SOTGFj7BwI)
 * **2023** interview by 'M' Seeker of Truth: [YouTube video](https://www.youtube.com/watch?v=BT_cX6mpAms)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
+* **2024** Gary McKinnon is featured in James Fox's documentary film: [The Program](https://geni.us/TheProgram)
 
-#### Corroborating Technical Evidence
+### Corroborating Technical Evidence
 
 First, Gary says that he used IPindex.net for reconnaissance. Using the [Internet Archive of that site](https://web.archive.org/web/20000510074952/http://www.ipindex.net/index.html), and comparing it with [the specific IPs from his indictment](https://cryptome.org/ips-bared.htm), we can see that the IP ranges in Texas correspond to NASA Johnson Space Center. &#x20;
 
@@ -53,7 +54,27 @@ Install <–computer COMPUTER> <–path PATH> [-port PORT] [-minimal] [-license 
 Last, I found this program in an old CD-ROM's contents: [About Proxynator screenshot](https://imgur.com/a/NbN7V)  \
 I used these same hacking techniques at around the same time. As seen, the idea is attributed to "SOLO", capitalized the same as Gary's handle. &#x20;
 
-#### Additional Links for Further Information on Gary
+#### Overlap with IP Addresses from the [Quentin Text File](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL_5/CUD513D.TXT)
+
+Gary told me that he _"remembers the Quentin docs and other stuff"_ and that the IP addresses overlap with what he found. I looked into this, and found the following:
+
+```
+Army Fort Irwin, Barstow, CA
+	McKinnon Indictment: 134.66.12.64
+	Project Green Cheese: Network 134.66.x.x
+NASA Ames, Moffett Field Naval Base, CA
+	McKinnon Indictment: 192.150.x.x (192.150.38.45, 192.150.38.14, 192.150.38.51, 192.150.38.125)
+	Project Green Cheese: Network 192.52.195.1
+Pentagon, Arlington, VA
+	McKinnon Indictment: 141.116.x.x (141.116.58.63, 141.116.204.150, 141.116.230.88)
+	Project Green Cheese: Network 141.116.0.1, Random Suspected Nets: 141.x.x.x
+```
+
+### Dispelling Rumors and Myths
+
+According to Gary, there is _"_[_No such programme!_](https://imgur.com/a/gary-mckinnon-says-no-solar-warden-uDvih5G)_"_ as Solar Warden. He has consistently said that he does not remember the names of the ships in the "fleet-to-fleet transfers" document, and when asked specifically about the names "USSS Hillenkoetter" and "USSS Curtis LeMay" [during the Q\&A](https://youtu.be/HdSSHTYRhuk?t=2450) after his 2017 MUFON Symposium talk, he reiterated that he does not remember those names. The earliest reference I can find to these is a [2010 article](https://openminds.tv/what-did-ufo-hacker-really-find/) by Alejandro Rojas, who attributes them to rumors.
+
+### Additional Links for Further Information on Gary
 
 * **2012** [Gary was unlucky](https://www.independent.co.uk/voices/comment/gary-was-unlucky-he-s-not-even-a-good-hacker-8215802.html) by Peter Warren (how Gary was caught) &#x20;
 * **2012** BBC [Profile: Gary McKinnon](https://www.bbc.com/news/uk-19946902) (why Gary's extradition was blocked) &#x20;
@@ -67,6 +88,6 @@ Reportedy, a TV movie based on Gary McKinnon is in the works. ([Deadline](https:
 
 <figure><img src="../.gitbook/assets/Gary_McKinnon_Drawing.jpg" alt=""><figcaption><p>Gary McKinnon's drawing of what he witnessed on a NASA computer in Johnson Space Center building 8.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/GaryNASAimage.jpg" alt=""><figcaption><p>Artist's rendered computer-generated image of what Gary McKinnon saw on a NASA computer.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/GaryNASAimage-CC-BY-ND.jpg" alt=""><figcaption><p>I worked with Gary McKinnon and an artist to render this computer-generated image of what Gary saw on a NASA computer.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NASAimage640x480-8-color.gif" alt=""><figcaption><p>This image has 8 colors and is 640x480 resolution, as Gary had changed settings to speed up the connection.</p></figcaption></figure>
