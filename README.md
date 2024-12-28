@@ -46,6 +46,7 @@ Quentin's true identity remains unknown.
 * **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew_Bevan)\
   Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being [a group of 50 hackers who went missing](https://youtu.be/bHtItL-lNAE?si=OvFBQzGVDEpI8UA2\&t=327),) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO. &#x20;
 * **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996_hr/s960605b.htm). However, Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to provide evidence of military digital intrusion to a UK court.) &#x20;
+* **1997** [The Independent article](https://www.independent.co.uk/news/court-frees-man-in-military-hacking-case-1295386.html) when Bevan was released. &#x20;
 * **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released. &#x20;
 * **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret_projects/project159.htm) &#x20;
 
@@ -207,6 +208,7 @@ At DEFCON 3 in **1995**, the late UFO researcher Glen Campbell gave a talk on Ar
 * _1982-1998_ [Archive kept by Charles McGrew](https://web.archive.org/web/20060909043351/http://paul.rutgers.edu/~mcgrew/ufo/) of Rutgers University ([hackers](https://web.archive.org/web/20060903065207/http://paul.rutgers.edu/~mcgrew/ufo/hackers) is "Quentin" again) &#x20;
 * _1989-1995_ [ParaNet-MICAP BBS UFO File Archives](https://web.archive.org/web/20080513234238/http://www.paranetinfo.com:80/ufofiles.html) ([dateline.txt](https://web.archive.org/web/20071016063631/http://www.paranetinfo.com/UFO_Files/ufo/dateline.txt) spells his name "Quintin") &#x20;
 * _1987-2001_ Additional zines and texts: [HackCanada archive via Internet Archive](https://web.archive.org/web/20181110090601/www.hackcanada.com/blackcrawl/ufo.html) &#x20;
+* _1989-2014_ A search reveals a BBStro or two for Ufopaedia: [defacto2.net](https://defacto2.net/search/file) &#x20;
 * _1994_ alt.alien.visitors Usenet newsgroup FAQ (7 parts): [UFOs-and-Aliens FAQ](http://www.faqs.org/faqs/ufos-and-aliens/) &#x20;
 * _1995_ Plaintext Diskmag: ["Project UFO" - 6 Amiga Disk Images](https://discmaster.textfiles.com/browse/9906) (more on [diskmaster](https://discmaster.textfiles.com/)) &#x20;
 * _1990's_ UFO BBS Files archive: [Sacred-Texts.com repository of UFO BBS Files](https://www.sacred-texts.com/ufo/ufobbs.htm) &#x20;
