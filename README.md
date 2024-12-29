@@ -46,6 +46,7 @@ Quentin's true identity remains unknown.
 * **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew_Bevan)\
   Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being [a group of 50 hackers who went missing](https://youtu.be/bHtItL-lNAE?si=OvFBQzGVDEpI8UA2\&t=327),) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO. &#x20;
 * **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996_hr/s960605b.htm). However, Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to provide evidence of military digital intrusion to a UK court.) &#x20;
+* **1996** [New York Times article](https://www.nytimes.com/1996/06/24/world/2d-briton-is-charged-in-computer-spying.html) when Bevan was arrested. &#x20;
 * **1997** [The Independent article](https://www.independent.co.uk/news/court-frees-man-in-military-hacking-case-1295386.html) when Bevan was released. &#x20;
 * **1997** [Times of London article](https://web.archive.org/web/20001214002200/http://www.ufomind.com/ufo/updates/1997/nov/m24-016.shtml) when Bevan was released. &#x20;
 * **1999** [Interview of Bevan by Matthew Williams](https://www.bibliotecapleyades.net/ciencia/secret_projects/project159.htm) &#x20;
