@@ -4,9 +4,9 @@ description: Columns on Dateline NBC segment with "Quentin"
 
 # 📰 1994 UFO Magazines
 
-The following two articles were written by T. Scott Crain in response to an [October 27, 1992 _Dateline NBC_ television segment](https://www.youtube.com/watch?v=N0QflNaPi7A). I sourced copies of the magazines and transcribed the articles, adding relevant images.
+The following two articles were written by T. Scott Crain in response to an [October 27, 1992 _Dateline NBC_ television segment](https://www.youtube.com/watch?v=N0QflNaPi7A). I sourced copies of the magazines and scanned and transcribed the articles, adding relevant images.
 
-<figure><img src="../.gitbook/assets/UFOmag9-2_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 2</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/UFOmag9-2_1994.webp" alt="" width="375"><figcaption><p>Cover of UFO Magazine Vol. 9 No. 2</p></figcaption></figure> <figure><img src="../.gitbook/assets/T_Scott_Crain_article1.png" alt="" width="375"><figcaption><p>Scan of article on page 14</p></figcaption></figure></div>
 
 #### 1994 UFO Magazine, Volume 9, Number 2, Page 14:
 
@@ -34,7 +34,7 @@ _How should we respond to a televised news report that contains tantalizing tidb
 
 
 
-<figure><img src="../.gitbook/assets/UFOmag9-3_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 3</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/UFOmag9-3_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 3</p></figcaption></figure> <figure><img src="../.gitbook/assets/T_Scott_Crain_article2.png" alt="" width="375"><figcaption><p>Scan of article on page 18</p></figcaption></figure></div>
 
 #### **1994** UFO Magazine, Volume 9, Number 3, Page 18:
 
