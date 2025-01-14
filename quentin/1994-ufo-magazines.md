@@ -4,9 +4,9 @@ description: Columns on Dateline NBC segment with "Quentin"
 
 # 📰 1994 UFO Magazines
 
-The following two articles were written by T. Scott Crain in response to an [October 27, 1992 _Dateline NBC_ television segment](https://www.youtube.com/watch?v=N0QflNaPi7A). I sourced copies of the magazines and scanned and transcribed the articles, adding relevant images.
+The following two UFO Magazine articles were written by UFO researcher T. Scott Crain in response to the [October 27, 1992 _Dateline NBC_ television segment on computer hackers](https://www.youtube.com/watch?v=N0QflNaPi7A). I sourced copies of the magazines, scanned and transcribed the articles, and added a few relevant images.
 
-<div><figure><img src="../.gitbook/assets/UFOmag9-2_1994.webp" alt="" width="375"><figcaption><p>Cover of UFO Magazine Vol. 9 No. 2</p></figcaption></figure> <figure><img src="../.gitbook/assets/T_Scott_Crain_article1.png" alt="" width="375"><figcaption><p>Scan of article on page 14</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/UFOmag9-2_1994.webp" alt="" width="375"><figcaption><p>UFO Magazine Vol. 9 No. 2</p></figcaption></figure> <figure><img src="../.gitbook/assets/T_Scott_Crain_article1.png" alt="" width="375"><figcaption><p>Scan of article on page 14</p></figcaption></figure></div>
 
 #### 1994 UFO Magazine, Volume 9, Number 2, Page 14:
 
