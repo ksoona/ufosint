@@ -94,7 +94,7 @@ Bevan also says, &#x20;
 * **2011** "The Autistic Hacker", profile in IEEE Spectrum: [article](https://spectrum.ieee.org/the-autistic-hacker) &#x20;
 * **2015** Interview by Richard D. Hall: [YouTube video](https://www.youtube.com/watch?v=SsfrmTXuw1Q) &#x20;
 * **2017** [Gary](https://web.archive.org/web/20220816040612/https://smallseo.co.uk/ill-be-speaking-at-the-mufon-symposium-2017/) spoke via video link at the MUFON Symposiu&#x6D;**:** &#x20;
-  * I have uploaded the full talk with audience questions [here](https://youtu.be/HdSSHTYRhuk). Just the talk is on [Gary's YouTube](https://youtu.be/LTemN5XTdec).
+  * I have uploaded the full talk with audience questions [here](https://youtu.be/t43NJjpXGE8). Just the talk is on [Gary's YouTube](https://youtu.be/LTemN5XTdec).
   * The symposium proceedings include a transcript of Gary's speech, which I have archived [here](gary-mckinnon/2017-mufon-symposium.md).
 * **2018** [Gary](https://web.archive.org/web/20220816034327/https://smallseo.co.uk/ill-be-on-the-next-series-of-ancient-aliens/) is featured on _Ancient Aliens_: [YouTube video](https://www.youtube.com/watch?v=20rWFDfh68Y)
 * **2019** _UFO Chronicles_ podcast: [web player](https://ufochroniclespodcast.com/ep2-gary-mckinnon/), [Spotify](https://open.spotify.com/episode/1xTupuxv2S5G40uVXz1cQD?si=80d9994ffec94d60), [mp3 audio](https://api.spreaker.com/download/episode/52831240/ep_2_gary_mckinnon.mp3?dl=true) &#x20;
@@ -105,6 +105,7 @@ Bevan also says, &#x20;
 * **2023** interview by 'M' Seeker of Truth: [YouTube video](https://www.youtube.com/watch?v=BT_cX6mpAms)
 * **2023** interview by Chris Thrall: [YouTube video](https://www.youtube.com/watch?v=spRfMxOB9zM)
 * **2024** Gary McKinnon is featured in James Fox's documentary film: [The Program](https://geni.us/TheProgram)
+* **2025** Gary McKinnon rejoins Twitter/X as [@realGMcKinnon](https://x.com/realGMcKinnon/)
 
 #### Corroborating Technical Evidence
 
