@@ -21,6 +21,7 @@ description: Gary "SOLO" McKinnon's extradition case got the most publicity.
 * **2007** "SOLO" interviewed on _Hacker's Voice Radio_ podcast:[ mp3 audio](http://www.hackervoice.co.uk/show/archive/2007/hackervoiceradio19mar2007.MP3) &#x20;
 * **2007** talk on Gary at UFO Crash Con by Matthew Williams: [YouTube video](https://www.youtube.com/watch?v=Gf5uek-vSQE) &#x20;
   * Proceedings from this conference include an interview with Gary [here](2007-ufo-crash-con.md). &#x20;
+* **2008** Gary McKinnon Intervew Footage by ITN: [Getty Images](https://www.gettyimages.com/detail/video/gary-mckinnon-interview-sot-on-low-levels-of-security-on-news-footage/665225922) &#x20;
 * **2009** "Gary McKinnon: Britain's Hacking Hero?": [article](https://www.alphr.com/features/252972/gary-mckinnon-britains-hacking-hero) &#x20;
 * **2011** "The Autistic Hacker", profile in IEEE Spectrum: [article](https://spectrum.ieee.org/the-autistic-hacker) &#x20;
 * **2015** Interview by Richard D. Hall: [YouTube video](https://www.youtube.com/watch?v=SsfrmTXuw1Q) &#x20;
