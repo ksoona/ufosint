@@ -26,13 +26,18 @@ _Table of Contents:_  \
   The [e-zine](https://en.wikipedia.org/wiki/Online_magazine) prints UFO-related search terms and IP addresses of US secret networks, information supplied by "Quentin" and possibly two or more accomplices. &#x20;
 * [Here's a mailing list](http://cd.textfiles.com/secretsubjects/UNDERGRD/VOL_5/CUD513D.TXT) that predates the _Phrack_ article. ([Archived commentary](https://web.archive.org/web/20010303221709/http://paul.rutgers.edu/~mcgrew/ufo/hackers)) &#x20;
 * [**1994** Columns in _UFO Magazine_ by T. Scott Crain](quentin/1994-ufo-magazines.md), who wrote letters to NBC.
-* **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), who attributes the quote:&#x20;
+* **2019** [article about the NBC segment by Nick Redfern](https://web.archive.org/web/20221130210136/https://mysteriousuniverse.org/2019/11/ufos-computer-hacking-the-media-just-maybe-dead-aliens/), who attributes:&#x20;
 
 > _"The hacker is aware of the interest his apparent UFO data has provoked, but does not wish to respond."_ - the late Susan Adams (_Dateline NBC_ producer)
 
 {% file src=".gitbook/assets/Quentin_UFO_Text_File_Sourcing.pdf" %}
 **2019** Report by Giuliano Marinkovic tracking Quentin's text file
 {% endfile %}
+
+Quentin inspired [Mathew Bevan](./#mid-90s-mathew-bevan) and [Gary McKinnon](./#most-well-known-gary-mckinnon), the hackers who succeeded him. From email correspondence:
+
+* _"I was referencing this textfile... Phrack... it was picked up in the BBS I went to."_ - Mathew Bevan
+* _"I remember the Quentin docs and other stuff. IP Addresses of some of them overlap with what I found."_ - Gary McKinnon
 
 I contacted Chris "Erik Bloodaxe" Goggans, the editor of _Phrack_. Here are two things he said:
 

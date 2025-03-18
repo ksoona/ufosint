@@ -25,6 +25,11 @@ description: An unknown hacker with the pseudonym "Quentin" was the first.
 **2019** Report by Giuliano Marinkovic tracking Quentin's text file.
 {% endfile %}
 
+Quentin inspired [Mathew Bevan](broken-reference) and [Gary McKinnon](broken-reference), the hackers who succeeded him. From email correspondence:
+
+* _"I was referencing this textfile... Phrack... it was picked up in the BBS I went to."_ - Mathew Bevan
+* _"I remember the Quentin docs and other stuff. IP Addresses of some of them overlap with what I found."_ - Gary McKinnon
+
 I contacted Chris "Erik Bloodaxe" Goggans, the editor of _Phrack_. Here are two things he said:
 
 * _"I know that Quentin had at least two people in the hacker scene that he considered friends and was usually working with on whatever it was he was up to. Don't know much more about them."_
