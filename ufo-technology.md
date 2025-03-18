@@ -6,13 +6,14 @@ description: This page is under construction, consider it in beta testing.
 
 ![Courtesy MUFON/TTSA](.gitbook/assets/observables.png)
 
-## The 5 Observables
+## The 6 Observables
 
 * Instantaneous Acceleration
 * Hypersonic Velocity
 * Low Observability
 * Multimedium Travel
 * Positive Lift
+* Biological Effects
 
 ### [37 **Defense Intelligence Reference Documents (DIRDs)**](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)
 
@@ -45,6 +46,17 @@ The late Amy Eskridge presentetion at HAL5: [Abstract](http://hal5.org/program-2
 [A Simplified Guide To Rocket Science and Beyond](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22338391.v1) section VII (2023)\
 [A Conceptual View of a UAP Reverse Engineering Program](https://condorman6.substack.com/p/a-conceptual-view-of-a-uap-reverse) (2023)\
 [Beyond Conventional Physics: Extended Electrodynamics, Lattice Confinement Fusion, Zero-Point Energy & Advanced Propulsion](https://www.shoshinworks.com/podcast-episodes/beyond-conventional-physics-extended-electrodynamics-lattice-confinement-fusion-zero-point-energy-advanced-propulsion) by Ecosystemic Futures Podcast, Shoshin Works (2024)
+
+## Zero-Point Energy
+
+In the Anomalous Coalition Q\&A with Hal Puthoff, [u/efh1 asked about Ken Shoulders](https://old.reddit.com/r/UFOs/comments/1i56xp2/dr_hal_puthoff_hes_sort_of_like_another_tesla/), and Hal Puthoff mentioned the work of Garret Moddel. I had recently asked a Nikola Tesla expert, [Bill Beaty](https://amasci.com/freenrg/fnrg.html), about viable free energy approaches and he mentioned Moddel's work on the Casimir effect:
+
+> I just know his [2023 conference-talk on the SSE channel on youtube](https://youtu.be/f--3HLpEbRU). A free-energy device employing silicon-fab. (By using Casmir-effect resonance in semiconductor nanolayers, he discovered a diode effect at microvolts, and so with billions of diodes wired in parallel, we can rectify thermal vibrations or even quantum ZPE, and put out microwatts with a small DC voltage.) Two videos and some papers... [https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L022007](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L022007) [https://journalofscientificexploration.org/index.php/jse/article/view/2567](https://journalofscientificexploration.org/index.php/jse/article/view/2567) [https://www.youtube.com/watch?v=2tGRhTXKh8A](https://www.youtube.com/watch?v=2tGRhTXKh8A)\
+> [https://www.youtube.com/watch?v=ddi87KVwJYM](https://www.youtube.com/watch?v=ddi87KVwJYM)
+
+Hal Puthoff also mentions the work of Bernie Haisch:\
+[http://www.calphysics.org/research.html](http://www.calphysics.org/research.html)\
+[http://www.calphysics.org/zpe.html](http://www.calphysics.org/zpe.html)
 
 ## Transparency Frameworks & Models
 
