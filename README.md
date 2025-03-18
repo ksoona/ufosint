@@ -34,7 +34,7 @@ _Table of Contents:_  \
 **2019** Report by Giuliano Marinkovic tracking Quentin's text file
 {% endfile %}
 
-Quentin inspired [Mathew Bevan](./#mid-90s-mathew-bevan) and [Gary McKinnon](./#most-well-known-gary-mckinnon), the hackers who succeeded him. From email correspondence:
+Quentin influenced [Mathew Bevan](./#mid-90s-mathew-bevan) and [Gary McKinnon](./#most-well-known-gary-mckinnon), the hackers who succeeded him. From email correspondence:
 
 * _"I was referencing this textfile... Phrack... it was picked up in the BBS I went to."_ - Mathew Bevan
 * _"I remember the Quentin docs and other stuff. IP Addresses of some of them overlap with what I found."_ - Gary McKinnon
