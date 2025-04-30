@@ -222,5 +222,7 @@ At DEFCON 3 in **1995**, the late UFO researcher Glen Campbell gave a talk on Ar
 * _1995_ Plaintext Diskmag: ["Project UFO" - 6 Amiga Disk Images](https://discmaster.textfiles.com/browse/9906) (more on [diskmaster](https://discmaster.textfiles.com/)) &#x20;
 * _1990's_ UFO BBS Files archive: [Sacred-Texts.com repository of UFO BBS Files](https://www.sacred-texts.com/ufo/ufobbs.htm) &#x20;
 * _1981+_ A trove of historical Usenet newsgroup postings can be found on [Google Groups](https://groups.google.com/forum/#!forumsearch/ufo) &#x20;
-* _Unknown_ A massive and incredible archive found by a friend:[ PreterHuman.net archive](http://cdn.preterhuman.net/texts/alien.ufo/) &#x20;
+* _Unknown_ A massive and incredible archive found by a friend: PreterHuman.net archive &#x20;
 * Related TXT: The late John Lear's letters: [1987](http://www.wolfbane.com/articles/john.lear.letter.pdf), [1988](http://www.sacred-texts.com/ufo/coverup.htm) (See also [John Lear](https://web.archive.org/web/20190319121708/http://www.therealjohnlear.com/TheRealJohnLear.com/HOME.html)'s [Websites](http://thelivingmoon.com)) &#x20;
+
+Please report broken links to [@ufohackers](https://twitter.com/ufohackers) on Twitter.
