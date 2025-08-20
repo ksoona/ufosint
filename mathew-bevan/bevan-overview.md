@@ -30,7 +30,7 @@ description: Mathew "Kuji" Bevan was the first UFO hacker to be arrested.
 
 > _“Possibly the single biggest threat to world peace since Adolf Hitler.” -_ a Pentagon source &#x20;
 
-Historical details about Bevan's case are discussed in this [Twitter](https://x.com/mrjeffknox/status/1936268944417161681) or [BlueSky thread](https://bsky.app/profile/mrjeffknox.bsky.social/post/3ls3ncfx7gk2u) by Jeff Knox.
+Historical details about Bevan's case are discussed in this [Twitter](https://x.com/mrjeffknox/status/1936268937467248736) or [BlueSky thread](https://bsky.app/profile/mrjeffknox.bsky.social/post/3ls3ncfx7gk2u) by Jeff Knox.
 
 Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this over a USR 14.4K dial-up modem. &#x20;
 

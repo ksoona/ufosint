@@ -70,7 +70,7 @@ Quentin's true identity remains unknown.
 
 > _“Possibly the single biggest threat to world peace since Adolf Hitler.” -_ a Pentagon source &#x20;
 
-Historical details about Bevan's case are discussed in this [Twitter](https://x.com/mrjeffknox/status/1936268944417161681) or [BlueSky thread](https://bsky.app/profile/mrjeffknox.bsky.social/post/3ls3ncfx7gk2u) by Jeff Knox.
+Historical details about Bevan's case are discussed in this [Twitter](https://x.com/mrjeffknox/status/1936268937467248736) or [BlueSky thread](https://bsky.app/profile/mrjeffknox.bsky.social/post/3ls3ncfx7gk2u) by Jeff Knox.
 
 Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this over a USR 14.4K dial-up modem. &#x20;
 
@@ -189,6 +189,10 @@ Richard Thieme's conference proceedings from the **2016** MUFON Symposium
 {% endfile %}
 
 * **2016** Open Minds UFO Radio - UFOs, Technology and the Future (Alejandro Rojas has Thieme as a guest): [Podcast](https://rojasreport.podbean.com/e/richard-thieme-ufos-technology-and-the-future/), [MP3 audio](https://mcdn.podbean.com/mf/download/9hnh1t/ufo_radio_2016_12_14_richard-thieme-ufos-technology-and-the-future.mp3)
+* **2016** Thieme pens the unpublished _Running Against the Wind: Why It’s So Hard to Think Seriously About UFOs_, published here for the first time.
+
+{% file src=".gitbook/assets/Against the Wind latest draft .docx" %}
+
 * **2021** DEFCON 29 - UFOs: Misinformation, Disinformation, and the Basic Truth: [PDF slides](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Richard%20Thieme%20AKA%20neuralcowbo%20-%20UFOs%20-%20%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.pdf), [MP4 video](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.mp4), [SRT subtitles](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.srt), [YouTube video](https://www.youtube.com/watch?v=mExktWB0qz4) &#x20;
 * **2022** DEFCON 30 - UFOs, Alien Life, and the Least Untruthful Things I Can Say: [Abstract](https://forum.defcon.org/node/242199), [PDF slides](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Richard%20Thieme%20-%20UFOs%20Alien%20Life%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.pdf), [MP4 video](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.mp4), [SRT subtitles](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.srt), [YouTube video](https://www.youtube.com/watch?v=VWu14-EfucI) &#x20;
 

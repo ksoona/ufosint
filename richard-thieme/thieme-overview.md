@@ -8,7 +8,7 @@ description: Richard "neuralcowboy" Thieme has spoken to hackers on UFOs.
 
 ## **Author, Professional Speaker: Richard Thieme**
 
-[Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard\_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**: &#x20;
+[Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**: &#x20;
 
 * **2002** MUFON Symposium - Are There UFOs on Mars?: " [YouTube video](https://youtu.be/uwR4iAlMA0s)
 
@@ -24,13 +24,17 @@ Richard Thieme's conference proceedings from the **2002** MUFON Symposium
   * These two 2013 talks were in line with a book Thieme co-authored: [_UFOs and Government: A Historical Inquiry_](https://thiemeworks.com/words/books/ufos-and-government-a-historical-inquiry/). &#x20;
   * Thieme also was interviewed by WBSD radio about the book: [Stream](https://thiemeworks.com/podcasts/wbsd-radio-interview-on-ufo-and-government/), [MP3 audio](https://thiemeworks.com/uploads/richard-thieme-wbsd-radio-interview.mp3) &#x20;
 * **2014** THOTCON 0x5 - [UFOs and Government: a Case Study in Disinformation, Deception, and Perception Management](https://infocondb.org/con/thotcon/thotcon-0x5/ufos-and-government-a-case-study-in-disinformation-deception-and-perception-management) (No recording)
-* **2016** MUFON Symposium - Against the Wind: Why People Can't Think Seriously About UFOs: [Speaker Profile Video](https://www.youtube.com/watch?v=yVyuCAOSIMM), [MUFON TV](https://mufontelevision.com/mufon-2016-symposium/?vimeography\_gallery=18\&vimeography\_video=195010507), [Vimeo video](https://player.vimeo.com/video/195010507) &#x20;
+* **2016** MUFON Symposium - Against the Wind: Why People Can't Think Seriously About UFOs: [Speaker Profile Video](https://www.youtube.com/watch?v=yVyuCAOSIMM), [MUFON TV](https://mufontelevision.com/mufon-2016-symposium/?vimeography_gallery=18\&vimeography_video=195010507), [Vimeo video](https://player.vimeo.com/video/195010507) &#x20;
 
 {% file src="../.gitbook/assets/Thieme_MUFON_Symposium_Proceedings_2016.pdf" %}
 Richard Thieme's conference proceedings from the **2016** MUFON Symposium
 {% endfile %}
 
-* **2016** Open Minds UFO Radio - UFOs, Technology and the Future (Alejandro Rojas has Thieme as a guest): [Podcast](https://rojasreport.podbean.com/e/richard-thieme-ufos-technology-and-the-future/), [MP3 audio](https://mcdn.podbean.com/mf/download/9hnh1t/ufo\_radio\_2016\_12\_14\_richard-thieme-ufos-technology-and-the-future.mp3)
+* **2016** Open Minds UFO Radio - UFOs, Technology and the Future (Alejandro Rojas has Thieme as a guest): [Podcast](https://rojasreport.podbean.com/e/richard-thieme-ufos-technology-and-the-future/), [MP3 audio](https://mcdn.podbean.com/mf/download/9hnh1t/ufo_radio_2016_12_14_richard-thieme-ufos-technology-and-the-future.mp3)
+* **2016** Thieme pens the unpublished _Running Against the Wind: Why It’s So Hard to Think Seriously About UFOs_, published here for the first time.
+
+{% file src="../.gitbook/assets/Against the Wind latest draft .docx" %}
+
 * **2021** DEFCON 29 - UFOs: Misinformation, Disinformation, and the Basic Truth: [PDF slides](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Richard%20Thieme%20AKA%20neuralcowbo%20-%20UFOs%20-%20%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.pdf), [MP4 video](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.mp4), [SRT subtitles](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Richard%20Thieme%20AKA%20neuralcowboy%20-%20UFOs%20-%20Misinformation%2C%20Disinformation%2C%20and%20the%20Basic%20Truth.srt), [YouTube video](https://www.youtube.com/watch?v=mExktWB0qz4) &#x20;
 * **2022** DEFCON 30 - UFOs, Alien Life, and the Least Untruthful Things I Can Say: [Abstract](https://forum.defcon.org/node/242199), [PDF slides](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Richard%20Thieme%20-%20UFOs%20Alien%20Life%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.pdf), [MP4 video](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.mp4), [SRT subtitles](https://infocon.org/cons/DEF%20CON/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Richard%20Thieme%20-%20UFOs%2C%20Alien%20Life%2C%20and%20the%20Least%20Untruthful%20Things%20I%20Can%20Say.srt), [YouTube video](https://www.youtube.com/watch?v=VWu14-EfucI) &#x20;
 
@@ -38,7 +42,7 @@ Thieme has given talks on other topics as well, [see a more complete index here]
 
 Thieme also wrote a monthly column which was compiled in his book [_Islands in the Clickstream_](https://thiemeworks.com/words/islands-in-the-clickstream/). In the original version, no longer in print, Chapter 9 "The Dark Side of the Moon and Beyond" contains columns written between **1997** and **2001** regarding UFOs. With Thieme's permission, I have republished five of these columns [here](islands-in-the-clickstream.md). &#x20;
 
-* **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi\_im\_richard\_thieme\_ama\_about\_ufos/) &#x20;
+* **2022** Reddit AMA with Richard Thieme on /r/UFOs: [Reddit thread](https://old.reddit.com/r/UFOs/comments/zi1x42/hi_im_richard_thieme_ama_about_ufos/) &#x20;
 
 Thieme's **2023** fiction book [_Mobius: Out of Time_](https://thiemeworks.com/words/books/mobius-out-of-time/) covers "the deft management of UFO phenomena and research in the intelligence community," among other topics. &#x20;
 
