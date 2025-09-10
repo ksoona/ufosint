@@ -9,7 +9,7 @@ description: Mathew "Kuji" Bevan was the first UFO hacker to be arrested.
 ## Mid-'90s: Mathew Bevan
 
 * **1994** [Mathew "Kuji" Bevan](https://en.wikipedia.org/wiki/Mathew_Bevan)\
-  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and 1200 to penetrate the US Air Force, NASA, and NATO. &#x20;
+  Inspired by the articles in Phrack, (and a rumor about Project Green Cheese being a group of 40 hackers who went missing,) Bevan used a Commodore Amiga 500 and Commodore Amiga 1200 to penetrate the US Air Force, NASA, and NATO. &#x20;
 * **1996** Bevan is arrested [and considered an accomplice of Richard "Datastream Cowboy" Pryce](https://irp.fas.org/congress/1996_hr/s960605b.htm). However, Bevan is let off 18 months later due to lack of evidence. (The US was unwilling to provide evidence of military digital intrusion to a UK court.) &#x20;
 * **1996** [New York Times article](https://www.nytimes.com/1996/06/24/world/2d-briton-is-charged-in-computer-spying.html) when Bevan was arrested. &#x20;
 * **1997** [The Independent article](https://www.independent.co.uk/news/court-frees-man-in-military-hacking-case-1295386.html) when Bevan was released. &#x20;
@@ -32,7 +32,7 @@ description: Mathew "Kuji" Bevan was the first UFO hacker to be arrested.
 
 Historical details about Bevan's case are discussed in this [Twitter](https://x.com/mrjeffknox/status/1936268937467248736) or [BlueSky thread](https://bsky.app/profile/mrjeffknox.bsky.social/post/3ls3ncfx7gk2u) by Jeff Knox.
 
-Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this over a USR 14.4K dial-up modem. &#x20;
+Technical details about Bevan's hack are discussed in [this Twitter thread by @hackerfantastic](https://web.archive.org/web/20220519145556/https://twitter.com/hackerfantastic/status/1527301954208092160). He accomplished this using a [bluebox](https://en.wikipedia.org/wiki/Blue_box) and a USR 14.4K dial-up modem. &#x20;
 
 Of note is that he got into a Wright-Patterson Air Force Base system that took no password and [saw plans for an antigravity drive](https://web.archive.org/web/20010306071223/http://www.artgomperz.com/a1998/jan/wpafb.html): &#x20;
 
