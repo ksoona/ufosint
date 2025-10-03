@@ -166,7 +166,7 @@ Reportedy, a TV movie based on Gary McKinnon is in the works. ([Deadline](https:
 
 ## **Author, Professional Speaker: Richard Thieme**
 
-[Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, and at the **MUFON Symposium**:
+[Richard "neuralcowboy" Thieme](https://en.wikipedia.org/wiki/Richard_Thieme), while not a hacker in the traditional sense, is an [author](http://thiemeworks.com) and public speaker, who talks on UFOs at the annual **DEFCON** hacker conference in Las Vegas, at the **MUFON Symposium**, and elsewhere:
 
 * **2002** MUFON Symposium - Are There UFOs on Mars?: [YouTube video](https://youtu.be/uwR4iAlMA0s)
 
@@ -214,6 +214,13 @@ While an Episcopal priest, Thieme reports a fighter pilot confided in him regard
 
 At DEFCON 3 in **1995**, the late UFO researcher Glen Campbell gave a talk on Area 51:\
 [DEF CON 3 - Glen Campbell - QA of Govermental Activities and Surrounding Area-51](https://infocon.org/cons/DEF%20CON/DEF%20CON%203/DEF%20CON%203%20audio/DEF%20CON%203%20-%20Glen%20Campbell%20-%20QA%20of%20Govermental%20Activities%20and%20Surrounding%20Area-51.m4b)
+
+### Trevor Paglen Chaos Communication Congress (C3) Talks
+
+Trevor Paglen, an artist based in Berlin, has given two relevant talks at the C3 hacker conference:
+
+* **2013** 30C3 - [Seeing The Secret State: Six Landscapes](https://media.ccc.de/v/30C3_-_5604_-_en_-_saal_1_-_201312282300_-_seeing_the_secret_state_six_landscapes_-_trevor_paglen) ([YouTube mirror](https://www.youtube.com/watch?v=j56s46e97Lo))
+* **2023** 37C3 - [YOU’VE JUST BEEN FUCKED BY PSYOPS](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops) ([YouTube mirror](https://www.youtube.com/watch?v=bRvJ9mIhnGk))
 
 ## **Historically Relevant: BBSes and Other Archives**
 
