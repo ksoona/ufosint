@@ -58,6 +58,17 @@ Hal Puthoff also mentions the work of Bernie Haisch:\
 [http://www.calphysics.org/research.html](http://www.calphysics.org/research.html)\
 [http://www.calphysics.org/zpe.html](http://www.calphysics.org/zpe.html)
 
+Eric Davis directed me to two papers that he wrote with Hal:\
+"[On Extracting Energy from the Quantum Vacuum](https://www.researchgate.net/publication/335432514_On_Extracting_Energy_from_the_Quantum_Vacuum)" and\
+"[Review of Experimental Concepts for Studying the Quantum Vacuum Field](http://www.calphysics.org/articles/Davis_STAIF06.pdf)"\
+\
+G. Jordan Maclay: [https://quantumfields.com](https://quantumfields.com/)
+
+Harold "Sonny" White:\
+[Interview with Tim Ventura](https://www.youtube.com/watch?v=atGD9dIgYgg)\
+[Interview with Joe Rogan](https://www.youtube.com/watch?v=i9mLICnWEpU)\
+[https://casimirspace.com](https://www.casimirspace.com/)
+
 ## Transparency Frameworks & Models
 
 Mandatory Declassification Review\
