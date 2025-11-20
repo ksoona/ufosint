@@ -67,7 +67,8 @@ G. Jordan Maclay: [https://quantumfields.com](https://quantumfields.com/)
 Harold "Sonny" White:\
 [Interview with Tim Ventura](https://www.youtube.com/watch?v=atGD9dIgYgg)\
 [Interview with Joe Rogan](https://www.youtube.com/watch?v=i9mLICnWEpU)\
-[https://casimirspace.com](https://www.casimirspace.com/)
+Casimir Space: [https://casimirspace.com](https://www.casimirspace.com/)\
+Rex Research: [https://www.rexresearch.com/WhiteCasimir/WhiteCasimirPowerCell.html](https://www.rexresearch.com/WhiteCasimir/WhiteCasimirPowerCell.html)
 
 ## Transparency Frameworks & Models
 
